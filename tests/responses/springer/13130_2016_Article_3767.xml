@@ -1,0 +1,1422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Berlin Heidelberg</PublisherName>
+    <PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+  </PublisherInfo>
+  <Journal OutputMedium="Online">
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>13130</JournalID>
+      <JournalDOI>10.1007/13130.1029-8479</JournalDOI>
+      <JournalElectronicISSN>1029-8479</JournalElectronicISSN>
+      <JournalTitle>Journal of High Energy Physics</JournalTitle>
+      <JournalAbbreviatedTitle>J. High Energ. Phys.</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCP" Type="Primary">Physics</JournalSubject>
+        <JournalSubject Code="SCP23029" Priority="1" Type="Secondary">Elementary Particles, Quantum Field Theory</JournalSubject>
+        <JournalSubject Code="SCP19048" Priority="2" Type="Secondary">Quantum Field Theories, String Theory</JournalSubject>
+        <JournalSubject Code="SCP19070" Priority="3" Type="Secondary">Classical and Quantum Gravitation, Relativity Theory</JournalSubject>
+        <JournalSubject Code="SCP19080" Priority="4" Type="Secondary">Quantum Physics</JournalSubject>
+        <SubjectCollection Code="SC12">Physics and Astronomy</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="Online">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>2016</VolumeIDStart>
+        <VolumeIDEnd>2016</VolumeIDEnd>
+        <VolumeIssueCount>12</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="Online">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>4</IssueIDStart>
+          <IssueIDEnd>4</IssueIDEnd>
+          <IssueArticleCount>1</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2016</Year>
+              <Month>4</Month>
+            </CoverDate>
+            <PricelistYear>2016</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>SISSA, Trieste, Italy</CopyrightHolderName>
+            <CopyrightYear>2016</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="JHEP042016120" OutputMedium="Online">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>3767</ArticleID>
+            <ArticleExternalID Type="arXiv">1512.03192</ArticleExternalID>
+            <ArticleDOI>10.1007/JHEP04(2016)120</ArticleDOI>
+            <ArticleCitationID>120</ArticleCitationID>
+            <ArticleSequenceNumber>120</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Perturbative quantum gravity in double field theory</ArticleTitle>
+            <ArticleCategory>Regular Article - Theoretical Physics</ArticleCategory>
+            <ArticleFirstPage>1</ArticleFirstPage>
+            <ArticleLastPage>38</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>19</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2016</Year>
+                <Month>1</Month>
+                <Day>25</Day>
+              </Received>
+              <Accepted>
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>8</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>19</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>The Author(s)</CopyrightHolderName>
+              <CopyrightYear>2016</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="OpenChoice">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="OpenAccess"/>
+              <BodyHTMLGrant Grant="OpenAccess"/>
+              <BibliographyGrant Grant="OpenAccess"/>
+              <ESMGrant Grant="OpenAccess"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Rutger</GivenName>
+                  <GivenName>H.</GivenName>
+                  <FamilyName>Boels</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>rutger.boels@desy.de</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Christoph</GivenName>
+                  <FamilyName>Horst</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>mail@christoph-horst.de</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>II. Institut für Theoretische Physik</OrgDivision>
+                <OrgName>Universität Hamburg</OrgName>
+                <OrgAddress>
+                  <Street>Luruper Chaussee 149</Street>
+                  <Postcode>D- 22761</Postcode>
+                  <City>Hamburg</City>
+                  <Country Code="DE">Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En" OutputMedium="All">
+              <Heading>A<Emphasis Type="SmallCaps">bstract</Emphasis>
+                            </Heading>
+              <Para ID="Par1">We study perturbative general relativity with a two-form and a dilaton using the double field theory formulation which features explicit index factorisation at the Lagrangian level. Explicit checks to known tree level results are performed. In a natural covariant gauge a ghost-like scalar which contributes even at tree level is shown to decouple consistently as required by perturbative unitarity. In addition, a lightcone gauge is explored which bypasses the problem altogether. Using this gauge to study BCFW on-shell recursion, we can show that most of the D-dimensional tree level S-matrix of the theory, including all pure graviton scattering amplitudes, is reproduced by the double field theory. More generally, we argue that the integrand may be reconstructed from its single cuts and provide limited evidence for off-shell cancellations in the Feynman graphs. As a straightforward application of the developed technology double field theory-like expressions for four field string corrections are derived.</Para>
+            </Abstract>
+            <KeywordGroup Language="En" OutputMedium="All">
+              <Heading>K<Emphasis Type="SmallCaps">eywords</Emphasis>
+                            </Heading>
+              <Keyword>Scattering Amplitudes</Keyword>
+              <Keyword>String Duality</Keyword>
+              <Keyword>Classical Theories of Gravity</Keyword>
+              <Keyword>Field Theories in Higher Dimensions</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>A<Emphasis Type="SmallCaps">r</Emphasis>X<Emphasis Type="SmallCaps">iv e</Emphasis>P<Emphasis Type="SmallCaps">rint</Emphasis>: <ExternalRef>
+                  <RefSource>1512.03192</RefSource>
+                  <RefTarget Address="http://arxiv.org/abs/1512.03192" TargetType="URL"/>
+                </ExternalRef>
+                            </SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/13130_2016_Article_3767.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Acknowledgments>
+              <FormalPara ID="FPar1" RenderingStyle="Style1">
+                <Heading>
+                  <Emphasis Type="Bold">Open Access</Emphasis>
+                </Heading>
+                <Para ID="Par2">This article is distributed under the terms of the Creative Commons Attribution License (CC-BY 4.0), which permits any use, distribution and reproduction in any medium, provided the original author(s) and source are credited.</Para>
+              </FormalPara>
+            </Acknowledgments>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>[1]</CitationNumber>
+                <BibUnstructured>G. ’t Hooft and M.J.G. Veltman, <Emphasis Type="Italic">One loop divergencies in the theory of gravitation</Emphasis>, <Emphasis Type="Italic">Annales Poincaré Phys. Theor.</Emphasis> 
+                           <Emphasis Type="Bold">A 20</Emphasis> (1974) 69 [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+J+" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>[2]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MH</Initials>
+                    <FamilyName>Goroff</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Sagnotti</FamilyName>
+                  </BibAuthorName>
+                  <Year>1986</Year>
+                  <ArticleTitle Language="En">The ultraviolet behavior of Einstein gravity</ArticleTitle>
+                  <JournalTitle>Nucl. Phys.</JournalTitle>
+                  <VolumeID>B 266</VolumeID>
+                  <FirstPage>709</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>1986NuPhB.266..709G</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0550-3213(86)90193-8</Handle>
+                  </Occurrence>
+                  <BibComments>[INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>M.H. Goroff and A. Sagnotti, <Emphasis Type="Italic">The ultraviolet behavior of Einstein gravity</Emphasis>, <Emphasis Type="Italic">Nucl. Phys.</Emphasis> 
+                           <Emphasis Type="Bold">B 266</Emphasis> (1986) 709 [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+J+" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>[3]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AEM</Initials>
+                    <FamilyName>Ven</FamilyName>
+                    <Particle>van de</Particle>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ArticleTitle Language="En">Two loop quantum gravity</ArticleTitle>
+                  <JournalTitle>Nucl. Phys.</JournalTitle>
+                  <VolumeID>B 378</VolumeID>
+                  <FirstPage>309</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>1992NuPhB.378..309V</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1171377</Handle>
+                  </Occurrence>
+                  <BibComments>[INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>A.E.M. van de Ven, <Emphasis Type="Italic">Two loop quantum gravity</Emphasis>, <Emphasis Type="Italic">Nucl. Phys.</Emphasis> 
+                           <Emphasis Type="Bold">B 378</Emphasis> (1992) 309 [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+J+" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>[4]</CitationNumber>
+                <BibUnstructured>Z. Bern et al., <Emphasis Type="Italic">Evanescent effects can alter ultraviolet divergences in quantum gravity without physical consequences</Emphasis>, <ExternalRef>
+                    <RefSource>arXiv:1507.06118</RefSource>
+                    <RefTarget Address="http://arxiv.org/abs/1507.06118" TargetType="URL"/>
+                  </ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>[5]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Z</Initials>
+                    <FamilyName>Bern</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">
+                                        <Emphasis Type="Italic">Three-loop superfiniteness of N</Emphasis> = 8 <Emphasis Type="Italic">supergravity</Emphasis>
+                                    </ArticleTitle>
+                  <JournalTitle>Phys. Rev. Lett.</JournalTitle>
+                  <VolumeID>98</VolumeID>
+                  <FirstPage>161303</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2007PhRvL..98p1303B</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1103/PhysRevLett.98.161303</Handle>
+                  </Occurrence>
+                  <BibComments>[hep-th/0702112] [INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>Z. Bern et al., <Emphasis Type="Italic">Three-loop superfiniteness of N</Emphasis> = 8 <Emphasis Type="Italic">supergravity</Emphasis>, <Emphasis Type="Italic">Phys. Rev. Lett.</Emphasis> 
+                           <Emphasis Type="Bold">98</Emphasis> (2007) 161303 [<ExternalRef>
+                    <RefSource>hep-th/0702112</RefSource>
+                    <RefTarget Address="http://arxiv.org/abs/hep-th/0702112" TargetType="URL"/>
+                  </ExternalRef>] [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+EPRINT+hep-th/0702112" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>[6]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Beisert</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Elvang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DZ</Initials>
+                    <FamilyName>Freedman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Kiermaier</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Morales</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Stieberger</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">
+                                        <Emphasis Type="Italic">E</Emphasis>
+                                        <Subscript>7(7)</Subscript> 
+                              <Emphasis Type="Italic">constraints on counterterms in N</Emphasis> = 8 <Emphasis Type="Italic">supergravity</Emphasis>
+                                    </ArticleTitle>
+                  <JournalTitle>Phys. Lett.</JournalTitle>
+                  <VolumeID>B 694</VolumeID>
+                  <FirstPage>265</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2010PhLB..694..265B</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2729150</Handle>
+                  </Occurrence>
+                  <BibComments>[arXiv:1009.1643] [INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>N. Beisert, H. Elvang, D.Z. Freedman, M. Kiermaier, A. Morales and S. Stieberger, <Emphasis Type="Italic">E</Emphasis>
+                                    <Subscript>7(7)</Subscript> 
+                           <Emphasis Type="Italic">constraints on counterterms in N</Emphasis> = 8 <Emphasis Type="Italic">supergravity</Emphasis>, <Emphasis Type="Italic">Phys. Lett.</Emphasis> 
+                           <Emphasis Type="Bold">B 694</Emphasis> (2011) 265 [<ExternalRef>
+                    <RefSource>arXiv:1009.1643</RefSource>
+                    <RefTarget Address="http://arxiv.org/abs/1009.1643" TargetType="URL"/>
+                  </ExternalRef>] [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+EPRINT+arXiv:1009.1643" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>[7]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Z</Initials>
+                    <FamilyName>Bern</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JJM</Initials>
+                    <FamilyName>Carrasco</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Johansson</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">New relations for gauge-theory amplitudes</ArticleTitle>
+                  <JournalTitle>Phys. Rev.</JournalTitle>
+                  <VolumeID>D 78</VolumeID>
+                  <FirstPage>085011</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2008PhRvD..78h5011B</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2470033</Handle>
+                  </Occurrence>
+                  <BibComments>[arXiv:0805.3993] [INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>Z. Bern, J.J.M. Carrasco and H. Johansson, <Emphasis Type="Italic">New relations for gauge-theory amplitudes</Emphasis>, <Emphasis Type="Italic">Phys. Rev.</Emphasis> 
+                           <Emphasis Type="Bold">D 78</Emphasis> (2008) 085011 [<ExternalRef>
+                    <RefSource>arXiv:0805.3993</RefSource>
+                    <RefTarget Address="http://arxiv.org/abs/0805.3993" TargetType="URL"/>
+                  </ExternalRef>] [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+EPRINT+arXiv:0805.3993" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>[8]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Z</Initials>
+                    <FamilyName>Bern</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JJM</Initials>
+                    <FamilyName>Carrasco</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Johansson</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Perturbative quantum gravity as a double copy of gauge theory</ArticleTitle>
+                  <JournalTitle>Phys. Rev. Lett.</JournalTitle>
+                  <VolumeID>105</VolumeID>
+                  <FirstPage>061602</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2010PhRvL.105f1602B</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2673040</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1103/PhysRevLett.105.061602</Handle>
+                  </Occurrence>
+                  <BibComments>[arXiv:1004.0476] [INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>Z. Bern, J.J.M. Carrasco and H. Johansson, <Emphasis Type="Italic">Perturbative quantum gravity as a double copy of gauge theory</Emphasis>, <Emphasis Type="Italic">Phys. Rev. Lett.</Emphasis> 
+                           <Emphasis Type="Bold">105</Emphasis> (2010) 061602 [<ExternalRef>
+                    <RefSource>arXiv:1004.0476</RefSource>
+                    <RefTarget Address="http://arxiv.org/abs/1004.0476" TargetType="URL"/>
+                  </ExternalRef>] [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+EPRINT+arXiv:1004.0476" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>[9]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Kawai</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DC</Initials>
+                    <FamilyName>Lewellen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SHH</Initials>
+                    <FamilyName>Tye</FamilyName>
+                  </BibAuthorName>
+                  <Year>1986</Year>
+                  <ArticleTitle Language="En">A relation between tree amplitudes of closed and open strings</ArticleTitle>
+                  <JournalTitle>Nucl. Phys.</JournalTitle>
+                  <VolumeID>B 269</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>1986NuPhB.269....1K</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>838667</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0550-3213(86)90362-7</Handle>
+                  </Occurrence>
+                  <BibComments>[INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>H. Kawai, D.C. Lewellen and S.H.H. Tye, <Emphasis Type="Italic">A relation between tree amplitudes of closed and open strings</Emphasis>, <Emphasis Type="Italic">Nucl. Phys.</Emphasis> 
+                           <Emphasis Type="Bold">B 269</Emphasis> (1986) 1 [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+J+" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>[10]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>RH</Initials>
+                    <FamilyName>Boels</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">On BCFW shifts of integrands and integrals</ArticleTitle>
+                  <JournalTitle>JHEP</JournalTitle>
+                  <VolumeID>11</VolumeID>
+                  <FirstPage>113</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2010JHEP...11..113B</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2795039</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/JHEP11(2010)113</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1294.81089</Handle>
+                  </Occurrence>
+                  <BibComments>[arXiv:1008.3101] [INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>R.H. Boels, <Emphasis Type="Italic">On BCFW shifts of integrands and integrals</Emphasis>, <Emphasis Type="Italic">JHEP</Emphasis> 
+                           <Emphasis Type="Bold">11</Emphasis> (2010) 113 [<ExternalRef>
+                    <RefSource>arXiv:1008.3101</RefSource>
+                    <RefTarget Address="http://arxiv.org/abs/1008.3101" TargetType="URL"/>
+                  </ExternalRef>] [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+EPRINT+arXiv:1008.3101" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>[11]</CitationNumber>
+                <BibUnstructured>L.V. Bork et al., <Emphasis Type="Italic">Divergences in maximal supersymmetric Yang-Mills theories in diverse dimensions</Emphasis>, <ExternalRef>
+                    <RefSource>arXiv:1508.05570</RefSource>
+                    <RefTarget Address="http://arxiv.org/abs/1508.05570" TargetType="URL"/>
+                  </ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>[12]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Z</Initials>
+                    <FamilyName>Bern</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AK</Initials>
+                    <FamilyName>Grant</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Perturbative gravity from QCD amplitudes</ArticleTitle>
+                  <JournalTitle>Phys. Lett.</JournalTitle>
+                  <VolumeID>B 457</VolumeID>
+                  <FirstPage>23</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>1999PhLB..457...23B</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0370-2693(99)00524-9</Handle>
+                  </Occurrence>
+                  <BibComments>[hep-th/9904026] [INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>Z. Bern and A.K. Grant, <Emphasis Type="Italic">Perturbative gravity from QCD amplitudes</Emphasis>, <Emphasis Type="Italic">Phys. Lett.</Emphasis> 
+                           <Emphasis Type="Bold">B 457</Emphasis> (1999) 23 [<ExternalRef>
+                    <RefSource>hep-th/9904026</RefSource>
+                    <RefTarget Address="http://arxiv.org/abs/hep-th/9904026" TargetType="URL"/>
+                  </ExternalRef>] [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+EPRINT+hep-th/9904026" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>[13]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>O</Initials>
+                    <FamilyName>Hohm</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">On factorizations in perturbative quantum gravity</ArticleTitle>
+                  <JournalTitle>JHEP</JournalTitle>
+                  <VolumeID>04</VolumeID>
+                  <FirstPage>103</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2011JHEP...04..103H</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2833224</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/JHEP04(2011)103</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1250.83030</Handle>
+                  </Occurrence>
+                  <BibComments>[arXiv:1103.0032] [INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>O. Hohm, <Emphasis Type="Italic">On factorizations in perturbative quantum gravity</Emphasis>, <Emphasis Type="Italic">JHEP</Emphasis> 
+                           <Emphasis Type="Bold">04</Emphasis> (2011) 103 [<ExternalRef>
+                    <RefSource>arXiv:1103.0032</RefSource>
+                    <RefTarget Address="http://arxiv.org/abs/1103.0032" TargetType="URL"/>
+                  </ExternalRef>] [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+EPRINT+arXiv:1103.0032" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>[14]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>O</Initials>
+                    <FamilyName>Hohm</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SK</Initials>
+                    <FamilyName>Kwak</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Frame-like geometry of double field theory</ArticleTitle>
+                  <JournalTitle>J. Phys.</JournalTitle>
+                  <VolumeID>A 44</VolumeID>
+                  <FirstPage>085404</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2011JPhA...44h5404H</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2770383</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1209.81168</Handle>
+                  </Occurrence>
+                  <BibComments>[arXiv:1011.4101] [INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>O. Hohm and S.K. Kwak, <Emphasis Type="Italic">Frame-like geometry of double field theory</Emphasis>, <Emphasis Type="Italic">J. Phys.</Emphasis> 
+                           <Emphasis Type="Bold">A 44</Emphasis> (2011) 085404 [<ExternalRef>
+                    <RefSource>arXiv:1011.4101</RefSource>
+                    <RefTarget Address="http://arxiv.org/abs/1011.4101" TargetType="URL"/>
+                  </ExternalRef>] [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+EPRINT+arXiv:1011.4101" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>[15]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>O</Initials>
+                    <FamilyName>Hohm</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Lüst</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Zwiebach</FamilyName>
+                  </BibAuthorName>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">The spacetime of double field theory: review, remarks and outlook</ArticleTitle>
+                  <JournalTitle>Fortsch. Phys.</JournalTitle>
+                  <VolumeID>61</VolumeID>
+                  <FirstPage>926</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2013ForPh..61..926H</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>3118857</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/prop.201300024</Handle>
+                  </Occurrence>
+                  <BibComments>[arXiv:1309.2977] [INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>O. Hohm, D. Lüst and B. Zwiebach, <Emphasis Type="Italic">The spacetime of double field theory: review, remarks and outlook</Emphasis>, <Emphasis Type="Italic">Fortsch. Phys.</Emphasis> 
+                           <Emphasis Type="Bold">61</Emphasis> (2013) 926 [<ExternalRef>
+                    <RefSource>arXiv:1309.2977</RefSource>
+                    <RefTarget Address="http://arxiv.org/abs/1309.2977" TargetType="URL"/>
+                  </ExternalRef>] [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+EPRINT+arXiv:1309.2977" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>[16]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Hull</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Zwiebach</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Double field theory</ArticleTitle>
+                  <JournalTitle>JHEP</JournalTitle>
+                  <VolumeID>09</VolumeID>
+                  <FirstPage>099</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2009JHEP...09..099H</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2580704</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/1126-6708/2009/09/099</Handle>
+                  </Occurrence>
+                  <BibComments>[arXiv:0904.4664] [INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>C. Hull and B. Zwiebach, <Emphasis Type="Italic">Double field theory</Emphasis>, <Emphasis Type="Italic">JHEP</Emphasis> 
+                           <Emphasis Type="Bold">09</Emphasis> (2009) 099 [<ExternalRef>
+                    <RefSource>arXiv:0904.4664</RefSource>
+                    <RefTarget Address="http://arxiv.org/abs/0904.4664" TargetType="URL"/>
+                  </ExternalRef>] [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+EPRINT+arXiv:0904.4664" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>[17]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>O</Initials>
+                    <FamilyName>Hohm</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Hull</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Zwiebach</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Background independent action for double field theory</ArticleTitle>
+                  <JournalTitle>JHEP</JournalTitle>
+                  <VolumeID>07</VolumeID>
+                  <FirstPage>016</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2010JHEP...07..016H</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2720017</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/JHEP07(2010)016</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1290.81069</Handle>
+                  </Occurrence>
+                  <BibComments>[arXiv:1003.5027] [INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>O. Hohm, C. Hull and B. Zwiebach, <Emphasis Type="Italic">Background independent action for double field theory</Emphasis>, <Emphasis Type="Italic">JHEP</Emphasis> 
+                           <Emphasis Type="Bold">07</Emphasis> (2010) 016 [<ExternalRef>
+                    <RefSource>arXiv:1003.5027</RefSource>
+                    <RefTarget Address="http://arxiv.org/abs/1003.5027" TargetType="URL"/>
+                  </ExternalRef>] [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+EPRINT+arXiv:1003.5027" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>[18]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Siegel</FamilyName>
+                  </BibAuthorName>
+                  <Year>1993</Year>
+                  <ArticleTitle Language="En">Superspace duality in low-energy superstrings</ArticleTitle>
+                  <JournalTitle>Phys. Rev.</JournalTitle>
+                  <VolumeID>D 48</VolumeID>
+                  <FirstPage>2826</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>1993PhRvD..48.2826S</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1236660</Handle>
+                  </Occurrence>
+                  <BibComments>[hep-th/9305073] [INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>W. Siegel, <Emphasis Type="Italic">Superspace duality in low-energy superstrings</Emphasis>, <Emphasis Type="Italic">Phys. Rev.</Emphasis> 
+                           <Emphasis Type="Bold">D 48</Emphasis> (1993) 2826 [<ExternalRef>
+                    <RefSource>hep-th/9305073</RefSource>
+                    <RefTarget Address="http://arxiv.org/abs/hep-th/9305073" TargetType="URL"/>
+                  </ExternalRef>] [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+EPRINT+hep-th/9305073" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>[19]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>O</Initials>
+                    <FamilyName>Hohm</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Zwiebach</FamilyName>
+                  </BibAuthorName>
+                  <Year>2014</Year>
+                  <ArticleTitle Language="En">
+                    <Emphasis Type="Italic">Double field theory at order α</Emphasis>
+                    <Superscript>′</Superscript>
+                  </ArticleTitle>
+                  <JournalTitle>JHEP</JournalTitle>
+                  <VolumeID>11</VolumeID>
+                  <FirstPage>075</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2014JHEP...11..075H</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>3290773</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/JHEP11(2014)075</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>06566006</Handle>
+                  </Occurrence>
+                  <BibComments>[arXiv:1407.3803] [INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>O. Hohm and B. Zwiebach, <Emphasis Type="Italic">Double field theory at order α</Emphasis>
+                                    <Superscript>′</Superscript>, <Emphasis Type="Italic">JHEP</Emphasis> 
+                           <Emphasis Type="Bold">11</Emphasis> (2014) 075 [<ExternalRef>
+                    <RefSource>arXiv:1407.3803</RefSource>
+                    <RefTarget Address="http://arxiv.org/abs/1407.3803" TargetType="URL"/>
+                  </ExternalRef>] [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+EPRINT+arXiv:1407.3803" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>[20]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Marques</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CA</Initials>
+                    <FamilyName>Nunez</FamilyName>
+                  </BibAuthorName>
+                  <Year>2015</Year>
+                  <ArticleTitle Language="En">
+                    <Emphasis Type="Italic">T-duality and α</Emphasis>
+                    <Superscript>′</Superscript>
+                    <Emphasis Type="Italic">-corrections</Emphasis>
+                  </ArticleTitle>
+                  <JournalTitle>JHEP</JournalTitle>
+                  <VolumeID>10</VolumeID>
+                  <FirstPage>084</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2015JHEP...10..084M</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>3435555</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/JHEP10(2015)084</Handle>
+                  </Occurrence>
+                  <BibComments>[arXiv:1507.00652]</BibComments>
+                </BibArticle>
+                <BibUnstructured>D. Marques and C.A. Nunez, <Emphasis Type="Italic">T-duality and α</Emphasis>
+                                    <Superscript>′</Superscript>
+                                    <Emphasis Type="Italic">-corrections</Emphasis>, <Emphasis Type="Italic">JHEP</Emphasis> 
+                           <Emphasis Type="Bold">10</Emphasis> (2015) 084 [<ExternalRef>
+                    <RefSource>arXiv:1507.00652</RefSource>
+                    <RefTarget Address="http://arxiv.org/abs/1507.00652" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>[21]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Lee</FamilyName>
+                  </BibAuthorName>
+                  <Year>2015</Year>
+                  <ArticleTitle Language="En">
+                    <Emphasis Type="Italic">Quadratic α</Emphasis>
+                    <Superscript>′</Superscript>
+                    <Emphasis Type="Italic">-corrections to heterotic double field theory</Emphasis>
+                  </ArticleTitle>
+                  <JournalTitle>Nucl. Phys.</JournalTitle>
+                  <VolumeID>B 899</VolumeID>
+                  <FirstPage>594</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2015NuPhB.899..594L</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>3398932</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.nuclphysb.2015.08.013</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1331.81246</Handle>
+                  </Occurrence>
+                  <BibComments>[arXiv:1504.00149]</BibComments>
+                </BibArticle>
+                <BibUnstructured>K. Lee, <Emphasis Type="Italic">Quadratic α</Emphasis>
+                                    <Superscript>′</Superscript>
+                                    <Emphasis Type="Italic">-corrections to heterotic double field theory</Emphasis>, <Emphasis Type="Italic">Nucl. Phys.</Emphasis> 
+                           <Emphasis Type="Bold">B 899</Emphasis> (2015) 594 [<ExternalRef>
+                    <RefSource>arXiv:1504.00149</RefSource>
+                    <RefTarget Address="http://arxiv.org/abs/1504.00149" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>[22]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DJ</Initials>
+                    <FamilyName>Gross</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Witten</FamilyName>
+                  </BibAuthorName>
+                  <Year>1986</Year>
+                  <ArticleTitle Language="En">Superstring modifications of Einstein’s equations</ArticleTitle>
+                  <JournalTitle>Nucl. Phys.</JournalTitle>
+                  <VolumeID>B 277</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>1986NuPhB.277....1G</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>858663</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0550-3213(86)90429-3</Handle>
+                  </Occurrence>
+                  <BibComments>[INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>D.J. Gross and E. Witten, <Emphasis Type="Italic">Superstring modifications of Einstein’s equations</Emphasis>, <Emphasis Type="Italic">Nucl. Phys.</Emphasis> 
+                           <Emphasis Type="Bold">B 277</Emphasis> (1986) 1 [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+J+" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>[23]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>RH</Initials>
+                    <FamilyName>Boels</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>O’Connell</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">Simple superamplitudes in higher dimensions</ArticleTitle>
+                  <JournalTitle>JHEP</JournalTitle>
+                  <VolumeID>06</VolumeID>
+                  <FirstPage>163</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2012JHEP...06..163B</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>3006829</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/JHEP06(2012)163</Handle>
+                  </Occurrence>
+                  <BibComments>[arXiv:1201.2653] [INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>R.H. Boels and D. O’Connell, <Emphasis Type="Italic">Simple superamplitudes in higher dimensions</Emphasis>, <Emphasis Type="Italic">JHEP</Emphasis> 
+                           <Emphasis Type="Bold">06</Emphasis> (2012) 163 [<ExternalRef>
+                    <RefSource>arXiv:1201.2653</RefSource>
+                    <RefTarget Address="http://arxiv.org/abs/1201.2653" TargetType="URL"/>
+                  </ExternalRef>] [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+EPRINT+arXiv:1201.2653" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>[24]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>RH</Initials>
+                    <FamilyName>Boels</FamilyName>
+                  </BibAuthorName>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">On the field theory expansion of superstring five point amplitudes</ArticleTitle>
+                  <JournalTitle>Nucl. Phys.</JournalTitle>
+                  <VolumeID>B 876</VolumeID>
+                  <FirstPage>215</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2013NuPhB.876..215B</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>3143437</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.nuclphysb.2013.08.009</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1284.81226</Handle>
+                  </Occurrence>
+                  <BibComments>[arXiv:1304.7918] [INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>R.H. Boels, <Emphasis Type="Italic">On the field theory expansion of superstring five point amplitudes</Emphasis>, <Emphasis Type="Italic">Nucl. Phys.</Emphasis> 
+                           <Emphasis Type="Bold">B 876</Emphasis> (2013) 215 [<ExternalRef>
+                    <RefSource>arXiv:1304.7918</RefSource>
+                    <RefTarget Address="http://arxiv.org/abs/1304.7918" TargetType="URL"/>
+                  </ExternalRef>] [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+EPRINT+arXiv:1304.7918" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>[25]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Goroff</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JH</Initials>
+                    <FamilyName>Schwarz</FamilyName>
+                  </BibAuthorName>
+                  <Year>1983</Year>
+                  <ArticleTitle Language="En">D-dimensional gravity in the light cone gauge</ArticleTitle>
+                  <JournalTitle>Phys. Lett.</JournalTitle>
+                  <VolumeID>B 127</VolumeID>
+                  <FirstPage>61</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>1983PhLB..127...61G</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0370-2693(83)91630-1</Handle>
+                  </Occurrence>
+                  <BibComments>[INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>M. Goroff and J.H. Schwarz, <Emphasis Type="Italic">D-dimensional gravity in the light cone gauge</Emphasis>, <Emphasis Type="Italic">Phys. Lett.</Emphasis> 
+                           <Emphasis Type="Bold">B 127</Emphasis> (1983) 61 [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+J+" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>[26]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Leibbrandt</FamilyName>
+                  </BibAuthorName>
+                  <Year>1987</Year>
+                  <ArticleTitle Language="En">Introduction to noncovariant gauges</ArticleTitle>
+                  <JournalTitle>Rev. Mod. Phys.</JournalTitle>
+                  <VolumeID>59</VolumeID>
+                  <FirstPage>1067</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>1987RvMP...59.1067L</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>915749</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1103/RevModPhys.59.1067</Handle>
+                  </Occurrence>
+                  <BibComments>[INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>G. Leibbrandt, <Emphasis Type="Italic">Introduction to noncovariant gauges</Emphasis>, <Emphasis Type="Italic">Rev. Mod. Phys.</Emphasis> 
+                           <Emphasis Type="Bold">59</Emphasis> (1987) 1067 [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+J+" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>[27]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Arkani-Hamed</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Kaplan</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">On tree amplitudes in gauge theory and gravity</ArticleTitle>
+                  <JournalTitle>JHEP</JournalTitle>
+                  <VolumeID>04</VolumeID>
+                  <FirstPage>076</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2008JHEP...04..076A</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2425227</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/1126-6708/2008/04/076</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1246.81103</Handle>
+                  </Occurrence>
+                  <BibComments>[arXiv:0801.2385] [INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>N. Arkani-Hamed and J. Kaplan, <Emphasis Type="Italic">On tree amplitudes in gauge theory and gravity</Emphasis>, <Emphasis Type="Italic">JHEP</Emphasis> 
+                           <Emphasis Type="Bold">04</Emphasis> (2008) 076 [<ExternalRef>
+                    <RefSource>arXiv:0801.2385</RefSource>
+                    <RefTarget Address="http://arxiv.org/abs/0801.2385" TargetType="URL"/>
+                  </ExternalRef>] [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+EPRINT+arXiv:0801.2385" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <CitationNumber>[28]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Britto</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Cachazo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Feng</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">New recursion relations for tree amplitudes of gluons</ArticleTitle>
+                  <JournalTitle>Nucl. Phys.</JournalTitle>
+                  <VolumeID>B 715</VolumeID>
+                  <FirstPage>499</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2005NuPhB.715..499B</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2135646</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.nuclphysb.2005.02.030</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1207.81088</Handle>
+                  </Occurrence>
+                  <BibComments>[hep-th/0412308] [INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>R. Britto, F. Cachazo and B. Feng, <Emphasis Type="Italic">New recursion relations for tree amplitudes of gluons</Emphasis>, <Emphasis Type="Italic">Nucl. Phys.</Emphasis> 
+                           <Emphasis Type="Bold">B 715</Emphasis> (2005) 499 [<ExternalRef>
+                    <RefSource>hep-th/0412308</RefSource>
+                    <RefTarget Address="http://arxiv.org/abs/hep-th/0412308" TargetType="URL"/>
+                  </ExternalRef>] [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+EPRINT+hep-th/0412308" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR29">
+                <CitationNumber>[29]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Britto</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Cachazo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Feng</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Witten</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Direct proof of tree-level recursion relation in Yang-Mills theory</ArticleTitle>
+                  <JournalTitle>Phys. Rev. Lett.</JournalTitle>
+                  <VolumeID>94</VolumeID>
+                  <FirstPage>181602</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2005PhRvL..94r1602B</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2260976</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1103/PhysRevLett.94.181602</Handle>
+                  </Occurrence>
+                  <BibComments>[hep-th/0501052] [INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>R. Britto, F. Cachazo, B. Feng and E. Witten, <Emphasis Type="Italic">Direct proof of tree-level recursion relation in Yang-Mills theory</Emphasis>, <Emphasis Type="Italic">Phys. Rev. Lett.</Emphasis> 
+                           <Emphasis Type="Bold">94</Emphasis> (2005) 181602 [<ExternalRef>
+                    <RefSource>hep-th/0501052</RefSource>
+                    <RefTarget Address="http://arxiv.org/abs/hep-th/0501052" TargetType="URL"/>
+                  </ExternalRef>] [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+EPRINT+hep-th/0501052" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR30">
+                <CitationNumber>[30]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>RH</Initials>
+                    <FamilyName>Boels</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RS</Initials>
+                    <FamilyName>Isermann</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">Yang-Mills amplitude relations at loop level from non-adjacent BCFW shifts</ArticleTitle>
+                  <JournalTitle>JHEP</JournalTitle>
+                  <VolumeID>03</VolumeID>
+                  <FirstPage>051</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2012JHEP...03..051B</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2980195</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/JHEP03(2012)051</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1309.81317</Handle>
+                  </Occurrence>
+                  <BibComments>[arXiv:1110.4462] [INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>R.H. Boels and R.S. Isermann, <Emphasis Type="Italic">Yang-Mills amplitude relations at loop level from non-adjacent BCFW shifts</Emphasis>, <Emphasis Type="Italic">JHEP</Emphasis> 
+                           <Emphasis Type="Bold">03</Emphasis> (2012) 051 [<ExternalRef>
+                    <RefSource>arXiv:1110.4462</RefSource>
+                    <RefTarget Address="http://arxiv.org/abs/1110.4462" TargetType="URL"/>
+                  </ExternalRef>] [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+EPRINT+arXiv:1110.4462" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR31">
+                <CitationNumber>[31]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Jeon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Lee</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J-H</Initials>
+                    <FamilyName>Park</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Suh</FamilyName>
+                  </BibAuthorName>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">
+                                        <Emphasis Type="Italic">Stringy unification of type IIA and IIB supergravities under N</Emphasis> = 2 <Emphasis Type="Italic">D</Emphasis> = 10 <Emphasis Type="Italic">supersymmetric double field theory</Emphasis>
+                                    </ArticleTitle>
+                  <JournalTitle>Phys. Lett.</JournalTitle>
+                  <VolumeID>B 723</VolumeID>
+                  <FirstPage>245</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2013PhLB..723..245J</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>3069258</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.physletb.2013.05.016</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1311.83062</Handle>
+                  </Occurrence>
+                  <BibComments>[arXiv:1210.5078] [INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>I. Jeon, K. Lee, J.-H. Park and Y. Suh, <Emphasis Type="Italic">Stringy unification of type IIA and IIB supergravities under N</Emphasis> = 2 <Emphasis Type="Italic">D</Emphasis> = 10 <Emphasis Type="Italic">supersymmetric double field theory</Emphasis>, <Emphasis Type="Italic">Phys. Lett.</Emphasis> 
+                           <Emphasis Type="Bold">B 723</Emphasis> (2013) 245 [<ExternalRef>
+                    <RefSource>arXiv:1210.5078</RefSource>
+                    <RefTarget Address="http://arxiv.org/abs/1210.5078" TargetType="URL"/>
+                  </ExternalRef>] [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+EPRINT+arXiv:1210.5078" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR32">
+                <CitationNumber>[32]</CitationNumber>
+                <BibUnstructured>O. Hohm and D. Marques, <Emphasis Type="Italic">Perturbative double field theory on general backgrounds</Emphasis>, <ExternalRef>
+                    <RefSource>arXiv:1512.02658</RefSource>
+                    <RefTarget Address="http://arxiv.org/abs/1512.02658" TargetType="URL"/>
+                  </ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR33">
+                <CitationNumber>[33]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Monteiro</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>O’Connell</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CD</Initials>
+                    <FamilyName>White</FamilyName>
+                  </BibAuthorName>
+                  <Year>2014</Year>
+                  <ArticleTitle Language="En">Black holes and the double copy</ArticleTitle>
+                  <JournalTitle>JHEP</JournalTitle>
+                  <VolumeID>12</VolumeID>
+                  <FirstPage>056</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2014JHEP...12..056M</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>3303537</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/JHEP12(2014)056</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>06566187</Handle>
+                  </Occurrence>
+                  <BibComments>[arXiv:1410.0239] [INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>R. Monteiro, D. O’Connell and C.D. White, <Emphasis Type="Italic">Black holes and the double copy</Emphasis>, <Emphasis Type="Italic">JHEP</Emphasis> 
+                           <Emphasis Type="Bold">12</Emphasis> (2014) 056 [<ExternalRef>
+                    <RefSource>arXiv:1410.0239</RefSource>
+                    <RefTarget Address="http://arxiv.org/abs/1410.0239" TargetType="URL"/>
+                  </ExternalRef>] [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+EPRINT+arXiv:1410.0239" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR34">
+                <CitationNumber>[34]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Mertig</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Böhm</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Denner</FamilyName>
+                  </BibAuthorName>
+                  <Year>1991</Year>
+                  <ArticleTitle Language="En">FEYN CALC: Computer algebraic calculation of Feynman amplitudes</ArticleTitle>
+                  <JournalTitle>Comput. Phys. Commun.</JournalTitle>
+                  <VolumeID>64</VolumeID>
+                  <FirstPage>345</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>1991CoPhC..64..345M</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1113967</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0010-4655(91)90130-D</Handle>
+                  </Occurrence>
+                  <BibComments>[INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>R. Mertig, M. Böhm and A. Denner, <Emphasis Type="Italic">FEYN CALC: Computer algebraic calculation of Feynman amplitudes</Emphasis>, <Emphasis Type="Italic">Comput. Phys. Commun.</Emphasis> 
+                           <Emphasis Type="Bold">64</Emphasis> (1991) 345 [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+J+" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR35">
+                <CitationNumber>[35]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Binosi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Collins</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Kaufhold</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Theussl</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">JaxoDraw: a graphical user interface for drawing Feynman diagrams. Version 2.0 release notes</ArticleTitle>
+                  <JournalTitle>Comput. Phys. Commun.</JournalTitle>
+                  <VolumeID>180</VolumeID>
+                  <FirstPage>1709</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2009CoPhC.180.1709B</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.cpc.2009.02.020</Handle>
+                  </Occurrence>
+                  <BibComments>[arXiv:0811.4113] [INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>D. Binosi, J. Collins, C. Kaufhold and L. Theussl, <Emphasis Type="Italic">JaxoDraw: a graphical user interface for drawing Feynman diagrams. Version 2.0 release notes</Emphasis>, <Emphasis Type="Italic">Comput. Phys. Commun.</Emphasis> 
+                           <Emphasis Type="Bold">180</Emphasis> (2009) 1709 [<ExternalRef>
+                    <RefSource>arXiv:0811.4113</RefSource>
+                    <RefTarget Address="http://arxiv.org/abs/0811.4113" TargetType="URL"/>
+                  </ExternalRef>] [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+EPRINT+arXiv:0811.4113" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR36">
+                <CitationNumber>[36]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JAM</Initials>
+                    <FamilyName>Vermaseren</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">Axodraw</ArticleTitle>
+                  <JournalTitle>Comput. Phys. Commun.</JournalTitle>
+                  <VolumeID>83</VolumeID>
+                  <FirstPage>45</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>1994CoPhC..83...45V</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0010-4655(94)90034-5</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1114.68598</Handle>
+                  </Occurrence>
+                  <BibComments>[INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>J.A.M. Vermaseren, <Emphasis Type="Italic">Axodraw</Emphasis>, <Emphasis Type="Italic">Comput. Phys. Commun.</Emphasis> 
+                           <Emphasis Type="Bold">83</Emphasis> (1994) 45 [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+J+" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR37">
+                <CitationNumber>[37]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Hull</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Zwiebach</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">The gauge algebra of double field theory and Courant brackets</ArticleTitle>
+                  <JournalTitle>JHEP</JournalTitle>
+                  <VolumeID>09</VolumeID>
+                  <FirstPage>090</FirstPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2009JHEP...09..090H</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2580711</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/1126-6708/2009/09/090</Handle>
+                  </Occurrence>
+                  <BibComments>[arXiv:0908.1792] [INSPIRE]</BibComments>
+                </BibArticle>
+                <BibUnstructured>C. Hull and B. Zwiebach, <Emphasis Type="Italic">The gauge algebra of double field theory and Courant brackets</Emphasis>, <Emphasis Type="Italic">JHEP</Emphasis> 
+                           <Emphasis Type="Bold">09</Emphasis> (2009) 090 [<ExternalRef>
+                    <RefSource>arXiv:0908.1792</RefSource>
+                    <RefTarget Address="http://arxiv.org/abs/0908.1792" TargetType="URL"/>
+                  </ExternalRef>] [<ExternalRef>
+                    <RefSource>INSPIRE</RefSource>
+                    <RefTarget Address="http://inspirehep.net/search?p=find+EPRINT+arXiv:0908.1792" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

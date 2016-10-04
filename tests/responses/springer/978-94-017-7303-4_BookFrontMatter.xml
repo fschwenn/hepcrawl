@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Netherlands</PublisherName>
+    <PublisherLocation>Dordrecht</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+    <PublisherLogo>
+      <Figure Category="Standard" Float="No" ID="Figa">
+        <MediaObject ID="MO1">
+          <ImageObject Color="BlackWhite" FileRef="MediaObjects/309771_1_En_BookFrontmatter_Figa_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+        </MediaObject>
+      </Figure>
+    </PublisherLogo>
+  </PublisherInfo>
+  <Series>
+    <SeriesInfo ID="Series_1" SeriesType="Series" TocLevels="0">
+      <SeriesID>6001</SeriesID>
+      <SeriesPrintISSN>0168-1222</SeriesPrintISSN>
+      <SeriesElectronicISSN>2365-6425</SeriesElectronicISSN>
+      <SeriesTitle Language="En">Fundamental Theories of Physics</SeriesTitle>
+      <SeriesAbbreviatedTitle>Fundamental Theor. Physics</SeriesAbbreviatedTitle>
+    </SeriesInfo>
+    <SeriesHeader>
+      <CollaboratorGroup>
+        <Collaborator AffiliationIDS="Aff1" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Henk</GivenName>
+            <FamilyName>van Beijeren</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff2" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Philippe</GivenName>
+            <FamilyName>Blanchard</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff3" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Paul</GivenName>
+            <FamilyName>Busch</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff4" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Bob</GivenName>
+            <FamilyName>Coecke</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff5" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Dennis</GivenName>
+            <FamilyName>Dieks</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff6" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Detlef</GivenName>
+            <FamilyName>Dürr</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff7" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Roman</GivenName>
+            <FamilyName>Frigg</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff8" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Christopher</GivenName>
+            <FamilyName>Fuchs</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff9" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Giancarlo</GivenName>
+            <FamilyName>Ghirardi</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff10" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Domenico J. W.</GivenName>
+            <FamilyName>Giulini</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff11" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Gregg</GivenName>
+            <FamilyName>Jaeger</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff12" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Claus</GivenName>
+            <FamilyName>Kiefer</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff13" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Nicolaas P.</GivenName>
+            <FamilyName>Landsman</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff14" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Christian</GivenName>
+            <FamilyName>Maes</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff15" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Hermann</GivenName>
+            <FamilyName>Nicolai</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff16" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Vesselin</GivenName>
+            <FamilyName>Petkov</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff17" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Alwyn</GivenName>
+            <FamilyName>van der Merwe</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff18" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Rainer</GivenName>
+            <FamilyName>Verch</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff19" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>R. F.</GivenName>
+            <FamilyName>Werner</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff20" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Christian</GivenName>
+            <FamilyName>Wuthrich</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Affiliation ID="Aff1">
+          <OrgAddress>
+            <City>Utrecht</City>
+            <Country Code="NL">The Netherlands</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff2">
+          <OrgAddress>
+            <City>Bielefeld</City>
+            <Country Code="DE">Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff3">
+          <OrgAddress>
+            <City>York</City>
+            <Country Code="GB">United Kingdom</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff4">
+          <OrgDivision>Computing Laboratory Oxford University</OrgDivision>
+          <OrgName>Oxford University</OrgName>
+          <OrgAddress>
+            <City>Oxford</City>
+            <Country Code="GB">United Kingdom</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff5">
+          <OrgDivision>Inst. for History&amp;Foundations of Science Utrecht University</OrgDivision>
+          <OrgName>Utrecht University</OrgName>
+          <OrgAddress>
+            <City>Utrecht</City>
+            <Country Code="NL">The Netherlands</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff6">
+          <OrgAddress>
+            <City>München</City>
+            <Country Code="DE">Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff7">
+          <OrgName>London School of Economics &amp;</OrgName>
+          <OrgAddress>
+            <City>London</City>
+            <Country Code="GB">United Kingdom</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff8">
+          <OrgName>University of Massachusetts Boston</OrgName>
+          <OrgAddress>
+            <City>Boston</City>
+            <State>Massachusetts</State>
+            <Country Code="US">USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff9">
+          <OrgAddress>
+            <City>Trieste</City>
+            <Country Code="IT">Italy</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff10">
+          <OrgAddress>
+            <City>Bremen</City>
+            <Country Code="DE">Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff11">
+          <OrgDivision>Natural Sciences and Mathematics</OrgDivision>
+          <OrgName>Boston University</OrgName>
+          <OrgAddress>
+            <City>Boston</City>
+            <State>Massachusetts</State>
+            <Country Code="US">USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff12">
+          <OrgDivision>Inst. Theoretische Physik Universität zu Köln</OrgDivision>
+          <OrgName>Universität Köln</OrgName>
+          <OrgAddress>
+            <City>Köln</City>
+            <Country Code="DE">Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff13">
+          <OrgDivision>Chair of Mathematical Physics Radboud Universiteit Nijmegen</OrgDivision>
+          <OrgName>Radboud Universiteit Nijmegen</OrgName>
+          <OrgAddress>
+            <City>Nijmegen</City>
+            <Country Code="NL">The Netherlands</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff14">
+          <OrgDivision>Instituut voor Theoretische Fysica K.U. Leuven</OrgDivision>
+          <OrgName>K.U. Leuven, Mathematical Physics</OrgName>
+          <OrgAddress>
+            <City>Leuven</City>
+            <Country Code="BE">Belgium</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff15">
+          <OrgAddress>
+            <City>Potsdam</City>
+            <Country Code="DE">Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff16">
+          <OrgName>Concordia University</OrgName>
+          <OrgAddress>
+            <City>Montreal</City>
+            <State>Québec</State>
+            <Country Code="CA">Canada</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff17">
+          <OrgDivision>University of Denver</OrgDivision>
+          <OrgName>Foundations of Physics</OrgName>
+          <OrgAddress>
+            <City>Denver</City>
+            <State>Colorado</State>
+            <Country Code="US">USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff18">
+          <OrgAddress>
+            <City>Leipzig</City>
+            <Country Code="DE">Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff19">
+          <OrgDivision>Inst. Theoretische Physik Leibniz Universität Hannover</OrgDivision>
+          <OrgName>Leibniz Universität Hannover</OrgName>
+          <OrgAddress>
+            <City>Hannover</City>
+            <Country Code="DE">Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff20">
+          <OrgDivision>Department of Philosophy</OrgDivision>
+          <OrgName>University of Geneva</OrgName>
+          <OrgAddress>
+            <City>Geneva 4</City>
+            <Country Code="CH">Switzerland</Country>
+          </OrgAddress>
+        </Affiliation>
+      </CollaboratorGroup>
+      <SeriesInformationText>
+        <Para ID="Par1">The international monograph series “Fundamental Theories of Physics” aims to stretch the boundaries of mainstream physics by clarifying and developing the theoretical and conceptual framework of physics and by applying it to a wide range of interdisciplinary scientific fields. Original contributions in well-established fields such as Quantum Physics, Relativity Theory, Cosmology, Quantum Field Theory, Statistical Mechanics and Nonlinear Dynamics are welcome. The series also provides a forum for non-conventional approaches to these fields. Publications should present new and promising ideas, with prospects for their further development, and carefully show how they connect to conventional views of the topic. Although the aim of this series is to go beyond established mainstream physics, a high profile and open-minded Editorial Board will evaluate all contributions carefully to ensure a high scientific standard.</Para>
+        <Para ID="Par2">
+          More information about this series at
+          <ExternalRef>
+            <RefSource>http://www.springer.com/series/6001</RefSource>
+            <RefTarget Address="http://www.springer.com/series/6001" TargetType="URL"/>
+          </ExternalRef>
+        </Para>
+      </SeriesInformationText>
+    </SeriesHeader>
+    <Book Language="En" OutputMedium="All">
+      <BookInfo BookProductType="Monograph" ContainsESM="No" Language="En" MediaType="eBook" NumberingDepth="3" NumberingStyle="ContentOnly" OutputMedium="All" TocLevels="0">
+        <BookID>978-94-017-7303-4</BookID>
+        <BookTitle>Quantum Theory: Informational Foundations and Foils</BookTitle>
+        <BookVolumeNumber>181</BookVolumeNumber>
+        <BookSequenceNumber>181</BookSequenceNumber>
+        <BookDOI>10.1007/978-94-017-7303-4</BookDOI>
+        <BookTitleID>309771</BookTitleID>
+        <BookPrintISBN>978-94-017-7302-7</BookPrintISBN>
+        <BookElectronicISBN>978-94-017-7303-4</BookElectronicISBN>
+        <CatalogingInformation Library="LOC">Library of Congress Control Number: 2015945141</CatalogingInformation>
+        <EditionNumber>1</EditionNumber>
+        <BookEdition>1st ed. 2016</BookEdition>
+        <BookChapterCount>15</BookChapterCount>
+        <BookCopyright>
+          <CopyrightHolderName>Springer Science+Business Media Dordrecht</CopyrightHolderName>
+          <CopyrightYear>2016</CopyrightYear>
+          <CopyrightStandardText Country="NL" Language="En">This work is subject to copyright. All rights are reserved by the Publisher, whether the whole or part of the material is concerned, specifically the rights of translation, reprinting, reuse of illustrations, recitation, broadcasting, reproduction on microfilms or in any other physical way, and transmission or information storage and retrieval, electronic adaptation, computer software, or by similar or dissimilar methodology now known or hereafter developed.</CopyrightStandardText>
+          <TrademarkQualifierText Country="NL" Language="En">The use of general descriptive names, registered names, trademarks, service marks, etc. in this publication does not imply, even in the absence of a specific statement, that such names are exempt from the relevant protective laws and regulations and therefore free for general use.</TrademarkQualifierText>
+          <ProductLiability Country="NL" Language="En">The publisher, the authors and the editors are safe to assume that the advice and information in this book are believed to be true and accurate at the date of publication. Neither the publisher nor the authors or the editors give a warranty, express or implied, with respect to the material contained herein or for any errors or omissions that may have been made.</ProductLiability>
+          <SpringerReferenceLine Country="NL" Language="En">Springer Science+Business Media B.V. Dordrecht is part of Springer Science+Business Media (www.springer.com)</SpringerReferenceLine>
+          <SpringerLocationsLine>Springer Dordrecht Heidelberg New York London</SpringerLocationsLine>
+        </BookCopyright>
+        <PaperInfo Language="En">Printed on acid-free paper</PaperInfo>
+        <BookSubjectGroup>
+          <BookSubject Code="SCP" Type="Primary">Physics</BookSubject>
+          <BookSubject Code="SCP19080" Priority="1" Type="Secondary">Quantum Physics</BookSubject>
+          <BookSubject Code="SCP29000" Priority="2" Type="Secondary">History and Philosophical Foundations of Physics</BookSubject>
+          <BookSubject Code="SCI15041" Priority="3" Type="Secondary">Coding and Information Theory</BookSubject>
+          <BookSubject Code="SCM35000" Priority="4" Type="Secondary">Mathematical Physics</BookSubject>
+          <SubjectCollection Code="SUCO11651">Physics and Astronomy</SubjectCollection>
+        </BookSubjectGroup>
+        <BookContext>
+          <SeriesID>6001</SeriesID>
+        </BookContext>
+        <BookstoreLocation>Physics</BookstoreLocation>
+      </BookInfo>
+      <BookHeader>
+        <EditorGroup>
+          <Editor AffiliationIDS="Aff21">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Giulio</GivenName>
+              <FamilyName>Chiribella</FamilyName>
+            </EditorName>
+          </Editor>
+          <Editor AffiliationIDS="Aff22">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Robert</GivenName>
+              <GivenName>W.</GivenName>
+              <FamilyName>Spekkens</FamilyName>
+            </EditorName>
+          </Editor>
+          <Affiliation ID="Aff21">
+            <OrgDivision>Department of Computer Science</OrgDivision>
+            <OrgName>The University of Hong Kong</OrgName>
+            <OrgAddress>
+              <City>Hong Kong</City>
+              <Country>People’s Republic of China</Country>
+            </OrgAddress>
+          </Affiliation>
+          <Affiliation ID="Aff22">
+            <OrgName>Perimeter Institute for Theoretical Physics</OrgName>
+            <OrgAddress>
+              <City>Waterloo</City>
+              <State>Ontario</State>
+              <Country Code="CA">Canada</Country>
+            </OrgAddress>
+          </Affiliation>
+        </EditorGroup>
+      </BookHeader>
+      <BookFrontmatter>
+        <BookFrontmatterInfo>
+          <BookFrontmatterFirstPage>i</BookFrontmatterFirstPage>
+          <BookFrontmatterLastPage>vi</BookFrontmatterLastPage>
+        </BookFrontmatterInfo>
+        <BodyFrontmatter>
+          <Toc>
+            <Heading>Contents</Heading>
+            <TocChapter>
+              <TocEntry PageNumber="1">
+                <ExternalRef>
+                  <RefSource>Introduction</RefSource>
+                  <RefTarget Address="10.1007/978-94-017-7303-4_1" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <Author>
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Giulio</GivenName>
+                  <FamilyName>Chiribella</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author>
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Robert</GivenName>
+                  <GivenName>W.</GivenName>
+                  <FamilyName>Spekkens</FamilyName>
+                </AuthorName>
+              </Author>
+            </TocChapter>
+            <TocPart>
+              <TocEntry>Part I Foil Theories</TocEntry>
+              <TocChapter>
+                <TocEntry PageNumber="21">
+                  <ExternalRef>
+                    <RefSource>Optimal Information Transfer and Real-Vector-Space Quantum Theory</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7303-4_2" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+                <Author>
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>William</GivenName>
+                    <GivenName>K.</GivenName>
+                    <FamilyName>Wootters</FamilyName>
+                  </AuthorName>
+                </Author>
+              </TocChapter>
+              <TocChapter>
+                <TocEntry PageNumber="45">
+                  <ExternalRef>
+                    <RefSource>Almost Quantum Theory</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7303-4_3" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+                <Author>
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Benjamin</GivenName>
+                    <FamilyName>Schumacher</FamilyName>
+                  </AuthorName>
+                </Author>
+                <Author>
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Michael</GivenName>
+                    <GivenName>D.</GivenName>
+                    <FamilyName>Westmoreland</FamilyName>
+                  </AuthorName>
+                </Author>
+              </TocChapter>
+              <TocChapter>
+                <TocEntry PageNumber="83">
+                  <ExternalRef>
+                    <RefSource>Quasi-Quantization: Classical Statistical Theories with an Epistemic Restriction</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7303-4_4" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+                <Author>
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Robert</GivenName>
+                    <GivenName>W.</GivenName>
+                    <FamilyName>Spekkens</FamilyName>
+                  </AuthorName>
+                </Author>
+              </TocChapter>
+            </TocPart>
+            <TocPart>
+              <TocEntry>Part II Axiomatizations</TocEntry>
+              <TocChapter>
+                <TocEntry PageNumber="139">
+                  <ExternalRef>
+                    <RefSource>Information-Theoretic Postulates for Quantum Theory</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7303-4_5" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+                <Author>
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Markus</GivenName>
+                    <GivenName>P.</GivenName>
+                    <FamilyName>Müller</FamilyName>
+                  </AuthorName>
+                </Author>
+                <Author>
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Lluís</GivenName>
+                    <FamilyName>Masanes</FamilyName>
+                  </AuthorName>
+                </Author>
+              </TocChapter>
+              <TocChapter>
+                <TocEntry PageNumber="171">
+                  <ExternalRef>
+                    <RefSource>Quantum from Principles</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7303-4_6" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+                <Author>
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Giulio</GivenName>
+                    <FamilyName>Chiribella</FamilyName>
+                  </AuthorName>
+                </Author>
+                <Author>
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Giacomo</GivenName>
+                    <GivenName>Mauro</GivenName>
+                    <FamilyName>D’Ariano</FamilyName>
+                  </AuthorName>
+                </Author>
+                <Author>
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Paolo</GivenName>
+                    <FamilyName>Perinotti</FamilyName>
+                  </AuthorName>
+                </Author>
+              </TocChapter>
+              <TocChapter>
+                <TocEntry PageNumber="223">
+                  <ExternalRef>
+                    <RefSource>Reconstructing Quantum Theory</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7303-4_7" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+                <Author>
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Lucien</GivenName>
+                    <FamilyName>Hardy</FamilyName>
+                  </AuthorName>
+                </Author>
+              </TocChapter>
+              <TocChapter>
+                <TocEntry PageNumber="249">
+                  <ExternalRef>
+                    <RefSource>The Classical Limit of a Physical Theory and the Dimensionality of Space</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7303-4_8" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+                <Author>
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Borivoje</GivenName>
+                    <FamilyName>Dakić</FamilyName>
+                  </AuthorName>
+                </Author>
+                <Author>
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Časlav</GivenName>
+                    <FamilyName>Brukner</FamilyName>
+                  </AuthorName>
+                </Author>
+              </TocChapter>
+              <TocChapter>
+                <TocEntry PageNumber="283">
+                  <ExternalRef>
+                    <RefSource>Some Negative Remarks on Operational Approaches to Quantum Theory</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7303-4_9" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+                <Author>
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Christopher</GivenName>
+                    <GivenName>A.</GivenName>
+                    <FamilyName>Fuchs</FamilyName>
+                  </AuthorName>
+                </Author>
+                <Author>
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Blake</GivenName>
+                    <GivenName>C.</GivenName>
+                    <FamilyName>Stacey</FamilyName>
+                  </AuthorName>
+                </Author>
+              </TocChapter>
+            </TocPart>
+            <TocPart>
+              <TocEntry>Part III Categories and Convex Sets</TocEntry>
+              <TocChapter>
+                <TocEntry PageNumber="307">
+                  <ExternalRef>
+                    <RefSource>Generalised Compositional Theories and Diagrammatic Reasoning</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7303-4_10" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+                <Author>
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Bob</GivenName>
+                    <FamilyName>Coecke</FamilyName>
+                  </AuthorName>
+                </Author>
+                <Author>
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Ross</GivenName>
+                    <FamilyName>Duncan</FamilyName>
+                  </AuthorName>
+                </Author>
+                <Author>
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Aleks</GivenName>
+                    <FamilyName>Kissinger</FamilyName>
+                  </AuthorName>
+                </Author>
+                <Author>
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Quanlong</GivenName>
+                    <FamilyName>Wang</FamilyName>
+                  </AuthorName>
+                </Author>
+              </TocChapter>
+              <TocChapter>
+                <TocEntry PageNumber="367">
+                  <ExternalRef>
+                    <RefSource>Post-Classical Probability Theory</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7303-4_11" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+                <Author>
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Howard</GivenName>
+                    <FamilyName>Barnum</FamilyName>
+                  </AuthorName>
+                </Author>
+                <Author>
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Alexander</GivenName>
+                    <FamilyName>Wilce</FamilyName>
+                  </AuthorName>
+                </Author>
+              </TocChapter>
+            </TocPart>
+            <TocPart>
+              <TocEntry>Part IV Quantum Versus Super-Quantum Correlations</TocEntry>
+              <TocChapter>
+                <TocEntry PageNumber="421">
+                  <ExternalRef>
+                    <RefSource>Information Causality</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7303-4_12" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+                <Author>
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Marcin</GivenName>
+                    <FamilyName>Pawłowski</FamilyName>
+                  </AuthorName>
+                </Author>
+                <Author>
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Valerio</GivenName>
+                    <FamilyName>Scarani</FamilyName>
+                  </AuthorName>
+                </Author>
+              </TocChapter>
+              <TocChapter>
+                <TocEntry PageNumber="439">
+                  <ExternalRef>
+                    <RefSource>Macroscopic Locality</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7303-4_13" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+                <Author>
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Miguel</GivenName>
+                    <FamilyName>Navascués</FamilyName>
+                  </AuthorName>
+                </Author>
+              </TocChapter>
+              <TocChapter>
+                <TocEntry PageNumber="465">
+                  <ExternalRef>
+                    <RefSource>Guess Your Neighbour’s Input: No Quantum Advantage but an Advantage for Quantum Theory</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7303-4_14" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+                <Author>
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Antonio</GivenName>
+                    <FamilyName>Acín</FamilyName>
+                  </AuthorName>
+                </Author>
+                <Author>
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Mafalda</GivenName>
+                    <GivenName>L.</GivenName>
+                    <FamilyName>Almeida</FamilyName>
+                  </AuthorName>
+                </Author>
+                <Author>
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Remigiusz</GivenName>
+                    <FamilyName>Augusiak</FamilyName>
+                  </AuthorName>
+                </Author>
+                <Author>
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Nicolas</GivenName>
+                    <FamilyName>Brunner</FamilyName>
+                  </AuthorName>
+                </Author>
+              </TocChapter>
+              <TocChapter>
+                <TocEntry PageNumber="497">
+                  <ExternalRef>
+                    <RefSource>The Completeness of Quantum Theory for Predicting Measurement Outcomes</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7303-4_15" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+                <Author>
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Roger</GivenName>
+                    <FamilyName>Colbeck</FamilyName>
+                  </AuthorName>
+                </Author>
+                <Author>
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Renato</GivenName>
+                    <FamilyName>Renner</FamilyName>
+                  </AuthorName>
+                </Author>
+              </TocChapter>
+            </TocPart>
+          </Toc>
+        </BodyFrontmatter>
+        <BodyRef FileRef="978-94-017-7303-4_BookFrontMatter.pdf" OutputMedium="Online" PDFType="Typeset" TargetType="OnlinePDF"/>
+      </BookFrontmatter>
+    </Book>
+  </Series>
+</Publisher>

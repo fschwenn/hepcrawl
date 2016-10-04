@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer India</PublisherName>
+    <PublisherLocation>New Delhi</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="NonStandardArchiveJournal" NumberingStyle="ContentOnly">
+      <JournalID>12043</JournalID>
+      <JournalDOI>10.1007/12043.0973-7111</JournalDOI>
+      <JournalPrintISSN>0304-4289</JournalPrintISSN>
+      <JournalElectronicISSN>0973-7111</JournalElectronicISSN>
+      <JournalTitle>Pramana</JournalTitle>
+      <JournalSubTitle>Published by the Indian Academy of Sciences</JournalSubTitle>
+      <JournalAbbreviatedTitle>Pramana - J Phys</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCP" Type="Primary">Physics</JournalSubject>
+        <JournalSubject Code="SCP00002" Priority="1" Type="Secondary">Physics, general</JournalSubject>
+        <JournalSubject Code="SCP22014" Priority="2" Type="Secondary">Astronomy, Observations and Techniques</JournalSubject>
+        <JournalSubject Code="SCP22022" Priority="3" Type="Secondary">Astrophysics and Astroparticles</JournalSubject>
+        <SubjectCollection Code="SC12">Physics and Astronomy</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>84</VolumeIDStart>
+        <VolumeIDEnd>84</VolumeIDEnd>
+        <VolumeIssueCount>6</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>6</IssueIDStart>
+          <IssueIDEnd>6</IssueIDEnd>
+          <IssueTitle Language="En">Theme Issue on Electronic Structure of Nanostructures and Correlated Nanomaterials: Theory and Experiment</IssueTitle>
+          <IssueArticleCount>20</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2015</Year>
+              <Month>6</Month>
+              <Day>19</Day>
+            </OnlineDate>
+            <PrintDate>
+              <Year>2015</Year>
+              <Month>6</Month>
+              <Day>18</Day>
+            </PrintDate>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>6</Month>
+            </CoverDate>
+            <PricelistYear>2015</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Indian Academy of Sciences</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s12043-015-0994-8" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="ContentOnly" TocLevels="0">
+            <ArticleID>994</ArticleID>
+            <ArticleDOI>10.1007/s12043-015-0994-8</ArticleDOI>
+            <ArticleSequenceNumber>9</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Growth and photoemission spectroscopic studies of ultrathin noble metal films on graphite</ArticleTitle>
+            <ArticleFirstPage>1011</ArticleFirstPage>
+            <ArticleLastPage>1022</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>30</Day>
+              </RegistrationDate>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>24</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Indian Academy of Sciences</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>S</GivenName>
+                  <GivenName>K</GivenName>
+                  <FamilyName>MAHATHA</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>KRISHNAKUMAR</GivenName>
+                  <GivenName>S</GivenName>
+                  <GivenName>R</GivenName>
+                  <FamilyName>MENON</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>krishna.menon@saha.ac.in</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Surface Physics and Material Science Division</OrgDivision>
+                <OrgName>Saha Institute of Nuclear Physics</OrgName>
+                <OrgAddress>
+                  <Street>1/AF Bidhan Nagar</Street>
+                  <City>Kolkata</City>
+                  <Postcode>700 064</Postcode>
+                  <Country>India</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>Growth of Cu, Ag and Au thin films on graphite(0 0 0 1) surface and possible formation of quantum well (QW) states originating due to the confinement of thin film <Emphasis Type="Italic">sp</Emphasis> electrons within the band gap of graphite along ΓM symmetry direction are investigated using low-energy electron diffraction (LEED) and angle-resolved photoemission spectroscopy (ARPES). Higher surface diffusivity and surface energy of Cu on graphite surface led to cluster growth and does not reveal any quantum size effect, while Ag and Au films grow epitaxially in spite of large lattice mismatch. However, better surface ordering has been achieved by growing Ag and Au at low temperature (LT), followed by room-temperature (RT) annealing which are evident from LEED and the presence of sharp Shockley-type surface state (SS) at Fermi level (<Emphasis Type="Italic">E</Emphasis>
+                <Subscript>F</Subscript>). ARPES study of Ag films on graphite does not show any QW states, whereas Au films demonstrate a very sharp SS, Au bulk bands and well-resolved QW states or resonances. The observed low in-plane dispersions of these Au QW states or resonances are compared with the dispersions obtained in the previous Au QW state studies as well as for free-standing Au films.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>Graphite</Keyword>
+              <Keyword>noble metals</Keyword>
+              <Keyword>angle-resolved photoemission spectroscopy</Keyword>
+              <Keyword>quantum well states.</Keyword>
+            </KeywordGroup>
+            <KeywordGroup Language="--">
+              <Heading>PACS Nos</Heading>
+              <Keyword>79.60.−i</Keyword>
+              <Keyword>73.20.At</Keyword>
+              <Keyword>81.05.uf</Keyword>
+              <Keyword>81.15.−z</Keyword>
+            </KeywordGroup>
+          </ArticleHeader>
+          <Body>
+            <Section1 ID="Sec1">
+              <Heading>Introduction</Heading>
+              <Para>The quantum confinement effects caused by reduction in size of the material comparable to Fermi wavelength (<Emphasis Type="Italic">λ</Emphasis>
+                <Subscript>F</Subscript>) have attracted considerable interest due to their importance in low-dimensional physics and in device application [<CitationRef CitationID="CR1">1</CitationRef>–<CitationRef CitationID="CR3">3</CitationRef>]. Electron confinement in epitaxial metallic thin films within the substrate band-gap energy region [<CitationRef CitationID="CR4">4</CitationRef>] leads to a marked difference in physical properties compared to the bulk. The quantization of wave vector (<Emphasis Type="Italic">k</Emphasis>) has been observed in a variety of systems, like semiconductor QW, two-dimensional metal overlayers on semiconducting surfaces, metallic quantum dots, etc. Among these, the quantization effects specially in the case of thin films grown on the substrates, can be probed by the photoemission experiments [<CitationRef CitationID="CR5">5</CitationRef>].</Para>
+              <Para>The electronic band structure of graphite has been intensively studied both theoretically and experimentally as it is considered as a prototypical two-dimensional material [<CitationRef CitationID="CR6">6</CitationRef>–<CitationRef CitationID="CR9">9</CitationRef>]. The interest in graphite has been sparked recently because of the discovery of graphene, a single layer of <Emphasis Type="Italic">s</Emphasis>
+                <Emphasis Type="Italic">p</Emphasis>
+                <Superscript>2</Superscript>-bonded carbon atoms, out of graphite by peeling off the top layer using scotch tape which became one of the paradigm two-dimensional electron system [<CitationRef CitationID="CR10">10</CitationRef>,<CitationRef CitationID="CR11">11</CitationRef>]. One of the important properties of graphite surface is its chemical stability and its inertness towards most of the residual gases inside ultrahigh vacuum (UHV) chamber [<CitationRef CitationID="CR12">12</CitationRef>]. The van der Waals’ surface of graphite cleaves very nicely leaving the surface extremely flat with large terraces. Low interdiffusion for most of the noble metals, makes it an ideal substrate material for the growth of thin noble metal films [<CitationRef CitationID="CR13">13</CitationRef>]. Graphite is a layered semimetal with a gap along ΓM symmetry direction, which invokes the possibility of formation of QW states with an initial challenge of growing epitaxial thin metal films on top of this. In this context, noble metals (Cu, Ag and Au) have drawn considerable interest due to their free electron nature near <Emphasis Type="Italic">E</Emphasis>
+                <Subscript>F</Subscript>.</Para>
+              <Para>The first step in this study is the preparation of high-quality, well-ordered epitaxial thin films of noble metals (Cu, Ag and Au) on the semimetallic graphite(0 0 0 1) surface. Noble metals grown on van der Waals’ surfaces have been extensively studied for many years as models for various heterogeneous nucleations [<CitationRef CitationID="CR14">14</CitationRef>,<CitationRef CitationID="CR15">15</CitationRef>]. Notably, Ag and Au on MoS<Subscript>2</Subscript> [<CitationRef CitationID="CR16">16</CitationRef>,<CitationRef CitationID="CR17">17</CitationRef>], Cu, Ag, and Au on WSe<Subscript>2</Subscript> [<CitationRef CitationID="CR15">15</CitationRef>,<CitationRef CitationID="CR18">18</CitationRef>,<CitationRef CitationID="CR19">19</CitationRef>], Ag and Au on highly oriented pyrolitc graphite (HOPG) [<CitationRef CitationID="CR5">5</CitationRef>,<CitationRef CitationID="CR20">20</CitationRef>] form epitaxial overlayers despite a considerable lattice mismatch between the metal and the substrate. There are many reports on the growth of noble metals on HOPG, MoTe<Subscript>2</Subscript>, WTe<Subscript>2</Subscript>, WSe<Subscript>2</Subscript> [<CitationRef CitationID="CR5">5</CitationRef>,<CitationRef CitationID="CR14">14</CitationRef>,<CitationRef CitationID="CR15">15</CitationRef>] and on single-crystalline graphite surface [<CitationRef CitationID="CR13">13</CitationRef>,<CitationRef CitationID="CR21">21</CitationRef>–<CitationRef CitationID="CR24">24</CitationRef>]. However, so far enough attention has not been paid to the study of surface electronic structure of these noble metal-covered van der Waals’ surfaces.</Para>
+              <Para>In this paper, we present a systematic study of RT and LT (liquid nitrogen temperature) growth of Cu, Ag and Au thin films on graphite(0 0 0 1) surface and their possible evolution in surface electronic structure due to quantum confinements. Cu has been found to grow in clusters due to high surface diffusivity and surface energy, which does not show any quantum confinement effect in photoemission spectra, whereas, Ag and Au are found to grow in epitaxial mode with better surface ordering for films grown at LT, followed by RT annealing. No QW states could be observed for Ag/graphite, while Au films demonstrate a set of QW states or resonances. Very small movement of these QW states towards <Emphasis Type="Italic">E</Emphasis>
+                <Subscript>F</Subscript> upon increasing the film thickness, is believed to be related to very small dispersion of the Au <Emphasis Type="Italic">sp</Emphasis> electrons along ΓL symmetry direction. In addition, these Au QW states or resonances are found to disperse with low effective masses which are in close resemblance with the free-standing Au(1 1 1 ) surface electronic bands.</Para>
+            </Section1>
+            <Section1 ID="Sec2">
+              <Heading>Experimental</Heading>
+              <Para>The graphite single crystals of large sizes (4–5 mm diameter) (Nanotech Innovations, USA) were cleaved <Emphasis Type="Italic">in-situ</Emphasis> using the scotch tape method in the preparation chamber under UHV better than 5×10<Superscript>−10</Superscript> mbar. The surface quality and crystallographic symmetry directions were confirmed by LEED. The surface cleanliness was checked immediately after the cleavage by X-ray photoemission spectroscopy (XPS) and no traces of any impurities could be detected. No significant changes in properties of the substrate or noble metal films were observed even after 10 days of deposition, due to the inert surface resulting from crystal cleaving along the van der Waals’ gap. The ARPES experiments were performed using a combination of VG SCIENTA-R4000WAL electron energy analyser with 2D-CCD detector and a high flux GAMMADATA VUV He lamp attached with a VUV monochromator (the details has been outlined elsewhere [<CitationRef CitationID="CR25">25</CitationRef>]). During experiments the base pressure of the measurement chamber was kept below 4 × 10 <Superscript>−11</Superscript> mbar. We used He I <Emphasis Type="Italic">α</Emphasis> (21.218 eV) and He II <Emphasis Type="Italic">α</Emphasis> (40.814 eV) resonance lines to excite photoelectrons from the sample surface. Photoemission experiments were performed at RT with an angular resolution better than 0.7 <Superscript>∘</Superscript> in the wide-angle mode (±15<Superscript>∘</Superscript>) of the analyser and analyser energy resolution was set to ∼2 meV and ∼4 meV for spectra measured with He I<Emphasis Type="Italic">α</Emphasis> and He II<Emphasis Type="Italic">α</Emphasis> respectively. However, the thermally-broadened Fermi edge at RT was about 100 meV. The binding energy was calibrated by determining <Emphasis Type="Italic">E</Emphasis>
+                <Subscript>F</Subscript> on Au film epitaxially grown on graphite(0 0 0 1) surface.</Para>
+              <Para>Thin films of Cu, Ag and Au were evaporated from a feedback-controlled, well-degassed e-beam evaporator and deposited on graphite(0 0 0 1) surface at RT and also at LT. The deposition rate was calibrated using a water-cooled quartz microbalance with a deposition rate of ∼0.6 Å/min (1 monolayer (ML) corresponds to 2.085 Å for Cu and 2.36 Å = 1 ML for Ag and Au, along (1 1 1) direction. Intensity variation of the core-level peaks as a function of film thickness was also used to determine the thickness of the evaporated film, which matched well with the measurements from quartz microbalance. The base pressure in the preparation chamber during thin film evaporation was less than 4×10<Superscript>−10</Superscript> mbar. The crystalline quality of the grown films was monitored by the rear-view LEED system and photoemission intensity of the noble metal Shockley SS.</Para>
+            </Section1>
+            <Section1 ID="Sec3">
+              <Heading>Experimental results</Heading>
+              <Section2 ID="Sec4">
+                <Heading>Cu on graphite</Heading>
+                <Para>Figure <InternalRef RefID="Fig1">1</InternalRef>a shows the LEED pattern of the cleaved graphite(0 0 0 1) surface at a primary electron energy (<Emphasis Type="Italic">E</Emphasis>
+                  <Subscript>p</Subscript>) of 140 eV. Sharp hexagonal LEED spots confirm the high-quality of single crystal surface without any twins. This also ensures that the probed surface area is free from any regular steps or terraces unlike in the case of other layered materials [<CitationRef CitationID="CR26">26</CitationRef>]. In order to check the growth mode of Cu on graphite, we have grown Cu thin films on graphite surface at RT as well as LT followed by RT annealing. The LEED pattern of 6 ML Cu grown on the graphite(0 0 0 1) surface at RT and LT followed by RT annealing are shown in figures <InternalRef RefID="Fig1">1</InternalRef>b and <InternalRef RefID="Fig1">1</InternalRef>c respectively. The hexagonal symmetry in the LEED pattern suggests Cu(1 1 1) growth mode on the graphite surface. LEED pattern for RT growth shows large background and broad spots indicative of poor epitaxy (oriented) with large amount of defects. As shown in figure <InternalRef RefID="Fig1">1</InternalRef>c, the LT growth mode gives better quality films as the LEED spots are sharper and of lower background in comparison to figure <InternalRef RefID="Fig1">1</InternalRef>b; still the quality of the films is not very good as one expects for good epitaxial films. We have performed LEED studies for Cu films in the thickness range from 1 to 10 ML. However only 6 ML data are shown as the representative case. The LEED background intensity and spot size increase with Cu film thickness and after 8 ML, the quality of the LEED pattern degrades drastically.
+<Figure Category="Standard" Float="Yes" ID="Fig1">
+                    <Caption Language="En">
+                      <CaptionNumber>Figure 1</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>LEED pattern at primary energy 140 eV of <Emphasis Type="Bold">(a) </Emphasis>
+                          <Emphasis Type="Italic">in-situ</Emphasis> cleaved graphite(0 0 0 1) surface, <Emphasis Type="Bold">(b)</Emphasis> 6 ML of Cu grown on graphite at RT, <Emphasis Type="Bold">(c)</Emphasis> 6 ML of Cu grown on graphite surface at LT and annealed to RT. ARPES spectra of <Emphasis Type="Bold">(d)</Emphasis>
+                          <Emphasis Type="Italic">in-situ</Emphasis> cleaved graphite, <Emphasis Type="Bold">(e)</Emphasis> 6 ML of Cu film grown on graphite at RT, <Emphasis Type="Bold">(f)</Emphasis> 6 ML of Cu film grown on graphite at LT and annealed to RT.</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO1">
+                      <ImageObject Color="BlackWhite" FileRef="MediaObjects/12043_2015_994_Fig1_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>To explore the surface electronic structure and possible observation of the QW states of Cu on graphite surface, we have performed ARPES experiments on Cu thin films grown on graphite(0 0 0 1) surface using He II <Emphasis Type="Italic">α</Emphasis> resonance line at RT. Figure <InternalRef RefID="Fig1">1</InternalRef>d shows the ARPES spectra of <Emphasis Type="Italic">in-situ</Emphasis> cleaved graphite surface with known valence bands [<CitationRef CitationID="CR27">27</CitationRef>,<CitationRef CitationID="CR28">28</CitationRef>] along the ΓM direction. ARPES spectra collected after growing 6 ML of Cu on graphite surface at RT are shown in figure <InternalRef RefID="Fig1">1</InternalRef>e, where only weak intensity below 2 eV binding energy could be observed. The intensity of graphite valence bands decreased significantly upon growing Cu films but no SS or QW states could be detected, which were expected due the small lattice mismatch between Cu(1 1 1) and graphite(0 0 0 1) surfaces proposing a good epitaxy. As the quality of epitaxy appears to be better in the case of Cu film grown at LT, we have also measured ARPES spectra for 6 ML Cu thin film grown at LT followed by RT annealing as shown in figure <InternalRef RefID="Fig1">1</InternalRef>f. However, ARPES spectra do not reveal any SS or QW states around <Emphasis Type="Italic">E</Emphasis>
+                  <Subscript>F</Subscript>. The experiments have been repeated on several graphite crystals with slower Cu deposition rates and for higher film thicknesses but the Cu(1 1 1) SS as well as QW states could not be observed in all cases.</Para>
+              </Section2>
+              <Section2 ID="Sec5">
+                <Heading>Ag on graphite</Heading>
+                <Para>The next noble metal of interest is Ag, which has drawn considerable interest in growing on semiconducting surfaces as well as on metallic surfaces [<CitationRef CitationID="CR1">1</CitationRef>,<CitationRef CitationID="CR2">2</CitationRef>,<CitationRef CitationID="CR29">29</CitationRef>–<CitationRef CitationID="CR32">32</CitationRef>]. In this context, we have grown Ag on graphite(0 0 0 1) surface at RT as well as at LT and annealed to RT. Figure <InternalRef RefID="Fig2">2</InternalRef>a shows the LEED pattern of the cleaved graphite(0 0 0 1) surface measured with <Emphasis Type="Italic">E</Emphasis>
+                  <Subscript>p</Subscript> = 140 eV as mentioned in the case of Cu. To confirm the epitaxial growth nature of Ag thin films on graphite as reported [<CitationRef CitationID="CR20">20</CitationRef>], the LEED pattern has been monitored after growing Ag on graphite. The LEED pattern of 6 ML of Ag on graphite grown at RT is shown in figure <InternalRef RefID="Fig2">2</InternalRef>b. The epitaxial nature of the grown Ag film is evident from the same hexagonal symmetry without any significant decrease in intensity of LEED pattern.
+<Figure Category="Standard" Float="Yes" ID="Fig2">
+                    <Caption Language="En">
+                      <CaptionNumber>Figure 2</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>LEED pattern at <Emphasis Type="Italic">E</Emphasis>
+                          <Subscript>p</Subscript> = 140 eV of <Emphasis Type="Bold">(a)</Emphasis> cleaved graphite(0 0 0 1) surface, <Emphasis Type="Bold">(b)</Emphasis> 6 ML of Ag grown on graphite at RT. ARPES spectra of <Emphasis Type="Bold">(c)</Emphasis>
+                          <Emphasis Type="Italic">in-situ</Emphasis> cleaved graphite(0 0 0 1) surface along ΓM direction, <Emphasis Type="Bold">(d)</Emphasis> 6 ML of Ag film grown on graphite at RT, <Emphasis Type="Bold">(e)</Emphasis> 10 ML of Ag film grown on graphite at RT, <Emphasis Type="Bold">(f)</Emphasis> 10 ML of Ag film grown on graphite at LT and annealed to RT, with intense SS shown by yellow arrow.</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO2">
+                      <ImageObject Color="Color" FileRef="MediaObjects/12043_2015_994_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>We have performed ARPES experiments on Ag /graphite system where Ag has been grown at RT to explore the possible observation of QW states. Figure <InternalRef RefID="Fig2">2</InternalRef>c shows the ARPES spectra of <Emphasis Type="Italic">in-situ</Emphasis> cleaved graphite crystal along ΓM symmetry direction using He II <Emphasis Type="Italic">α</Emphasis> resonance line. The ARPES spectra collected on 6 ML Ag film grown on graphite(0 0 0 1) surface are shown in figure <InternalRef RefID="Fig2">2</InternalRef>d, where the intensity of graphite valence bands is suppressed significantly by the relatively flat Ag 4<Emphasis Type="Italic">d</Emphasis> bulk bands. But, Ag(1 1 1) SS or intensity around the <Emphasis Type="Italic">E</Emphasis>
+                  <Subscript>F</Subscript>, could not be observed. Figure <InternalRef RefID="Fig2">2</InternalRef>e shows ARPES spectra measured on 10 ML Ag thin film on graphite at RT in a narrow BE range (∼3.5 eV), where no SS and QW states are not visible. However, ARPES spectra of 10 ML Ag on graphite grown at LT and annealed to RT, shows an intense SS at Γ, as shown in figure <InternalRef RefID="Fig2">2</InternalRef>f, in agreement with literature for the case of Ag film on HOPG substrate [<CitationRef CitationID="CR20">20</CitationRef>]. So, it appears that the epitaxy for Ag film is better at LT than at RT, as also evidenced from LEED patterns. However, our ARPES study on Ag film grown at LT and annealed to RT, does not show any QW states, which are indeed very weak in intensity as reported in [<CitationRef CitationID="CR20">20</CitationRef>]. The experiments have been repeated upto very large thickness (∼100 ML), using He I <Emphasis Type="Italic">α</Emphasis> resonance line (not shown) but the presence of QW states could not be detected, either because they are clearly not present in our samples or they are very weak and could not be resolved by our experiments.</Para>
+              </Section2>
+              <Section2 ID="Sec6">
+                <Heading>Au on graphite</Heading>
+                <Para>Among the noble metals, Ag and Au have similar lattice parameters and very close valence band electronic structures [<CitationRef CitationID="CR33">33</CitationRef>]. In this context, it is quite expected that Au should also grow epitaxially on top of the graphite(0 0 0 1) surface and gives rise to Au(1 1 1) SS and possibly Au <Emphasis Type="Italic">sp</Emphasis> QW states. In order to check the growth mode of Au on graphite(0 0 0 1) surface, we have grown Au film on cleaved graphite(0 0 0 1) surface at RT and also at LT followed by RT annealing.</Para>
+                <Para>Figure <InternalRef RefID="Fig3">3</InternalRef>a shows the sharp hexagonal LEED pattern of cleaved graphite(0 0 0 1) surface using <Emphasis Type="Italic">E</Emphasis>
+                  <Subscript>p</Subscript> = 140 eV. Au(1 1 1) and graphite(0 0 0 1) surfaces have large lattice mismatch (17.5%) resulting in a large interfacial strain which may affect the epitaxial growth. Besides this strain effect, if Au grows epitaxially on graphite(0 0 0 1) surface, then the Au/graphite system may gives rise to discrete QW states and intense SS as seen on Au on MoS<Subscript>2</Subscript>(0 0 0 1) surface [<CitationRef CitationID="CR17">17</CitationRef>]. It is quite evident from figure <InternalRef RefID="Fig3">3</InternalRef>b that after growing 3 ML of Au, the hexagonal symmetry in LEED pattern does not get affected and extra spot is not visible for Au(1 1 1) lattice plane in the LEED pattern, unlike the case of Au growth on MoS<Subscript>2</Subscript> [<CitationRef CitationID="CR17">17</CitationRef>]. It can be observed in figure <InternalRef RefID="Fig3">3</InternalRef>b that the LEED spots are broader than graphite(0 0 0 1) with a large background indicating large defect density and poor epitaxial (oriented domains) growth. Given the magnitude of the strain (17.5%), the observation of LEED spots itself is surprising, whereas after growing 8 ML of Au as shown in figure <InternalRef RefID="Fig3">3</InternalRef>c, the Au/graphite surface shows a circular LEED pattern indicating a random orientation of the Au(1 1 1) domains on graphite surface, much like in a powder diffraction pattern. In order to check the growth mode of Au on graphite at LT, we have grown Au on graphite(0 0 0 1) substrate held at LT followed by a RT annealing. Figure <InternalRef RefID="Fig3">3</InternalRef>d shows a sharp hexagonal LEED pattern at RT of 8 ML Au on graphite grown at LT, followed by RT annealing. This hexagonal LEED pattern indicates single crystalline growth of Au at LT, despite the polycrystalline growth at RT (figure <InternalRef RefID="Fig3">3</InternalRef>c). Also the background intensity in LEED pattern is much lower with sharper LEED spots, signifying a better epitaxy and wetting of graphite surface.
+<Figure Category="Standard" Float="Yes" ID="Fig3">
+                    <Caption Language="En">
+                      <CaptionNumber>Figure 3</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>LEED pattern at <Emphasis Type="Italic">E</Emphasis>
+                          <Subscript>p</Subscript> = 140 eV of <Emphasis Type="Bold">(a)</Emphasis> cleaved graphite(0 0 0 1) surface, <Emphasis Type="Bold">(b)</Emphasis> 3 ML of Au, <Emphasis Type="Bold">(c)</Emphasis> 8 ML of Au, grown on graphite surface at RT and <Emphasis Type="Bold">(d)</Emphasis> 8 ML of Au, grown on graphite surface at LT and annealed to RT.</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO3">
+                      <ImageObject Color="BlackWhite" FileRef="MediaObjects/12043_2015_994_Fig3_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>Figure <InternalRef RefID="Fig4">4</InternalRef>a shows the ARPES spectra of <Emphasis Type="Italic">in-situ</Emphasis> cleaved graphite crystal along the ΓM symmetry direction using He II <Emphasis Type="Italic">α</Emphasis> resonance line corresponding to the LEED pattern shown in figure <InternalRef RefID="Fig3">3</InternalRef>a. After growing 3 ML of Au on graphite at RT, the Au bands become prominent at the cost of graphite valence bands as shown in figure <InternalRef RefID="Fig4">4</InternalRef>b. The SS at Γ is evident, which confirms the Au(1 1 1) growth mode at RT. However, the ARPES spectra collected on the 8 ML Au on graphite show very intense Au valence bands with the presence of SS as shown in figure <InternalRef RefID="Fig4">4</InternalRef>c. The circular LEED pattern and the presence of Au(1 1 1) SS for 8 ML of Au mimics that Au grows on graphite in crystallites or islands at RT along the Au(1 1 1) direction with an averaging in azimuthal plane. The ARPES spectra corresponding to the LEED pattern of figure <InternalRef RefID="Fig3">3</InternalRef>d, i.e., Au deposited on graphite at LT and then annealed to RT, show a set of well-resolved intense Au bulk bands as shown in figure <InternalRef RefID="Fig4">4</InternalRef>d. These bands were clearly seen along with the presence of a sharp SS indicating reasonably good epitaxial growth.
+<Figure Category="Standard" Float="Yes" ID="Fig4">
+                    <Caption Language="En">
+                      <CaptionNumber>Figure 4</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>ARPES spectra of <Emphasis Type="Bold">(a)</Emphasis>
+                          <Emphasis Type="Italic">in-situ</Emphasis> cleaved graphite(0 0 0 1) surface along ΓM direction, <Emphasis Type="Bold">(b)</Emphasis> 3 ML of Au, <Emphasis Type="Bold">(c)</Emphasis> 8 ML of Au film, grown on graphite at RT and <Emphasis Type="Bold">(d)</Emphasis> 8 ML of Au grown on graphite at LT annealed to RT. Yellow boxes indicate the Au SS.</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO4">
+                      <ImageObject Color="Color" FileRef="MediaObjects/12043_2015_994_Fig4_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec7">
+              <Heading>Discussions</Heading>
+              <Para>To understand the growth mechanism of noble metals on graphite, one should realize the in-plane lattice mismatch and large difference in surface free energies between graphite and noble metals as shown in table <InternalRef RefID="Tab1">1</InternalRef>. For a good epitaxial growth, low interfacial strain is necessary. Among the noble metals, minimum interfacial strain is expected for Cu(1 1 1) surface, while it is high for both Ag(1 1 1) and Au(1 1 1). This lower compressional strain would have helped Cu to form good epitaxy while one would have expected a poorer epitaxy for others. On the other hand, thermodynamically lower energy surfaces are more stable and hence growth of flat noble metal epitaxial layers on graphite is favoured, in general. The free energy of Cu(1 1 1) surface is largest among the noble metals while Ag(1 1 1) is lowest with Au(1 1 1) lying in between. Hence, it is expected that Ag(1 1 1) will form better epitaxial films on graphite(0 0 0 1) while Cu(1 1 1) is expected to form poor quality films. It can be understood that at RT, the growth favours clustered or 3D-island growth, as the atoms have mobility and can readily form 3D islands, while at LT, the atoms do not have sufficient mobility to diffuse and the growth is more like hit and stick type. During RT annealing, the structural quality of the films improves significantly due to the rearrangement of atomic positions leading to better epitaxy.
+<Table Float="Yes" ID="Tab1">
+                  <Caption Language="En">
+                    <CaptionNumber>Table 1</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>The in-plane lattice constants, in-plane lattice mismatch with graphite (0 0 0 1) surface and surface free energies of graphite, Cu, Ag and Au hexagonal surfaces [<CitationRef CitationID="CR34">34</CitationRef>].</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup cols="4">
+                    <colspec align="left" colname="c1" colnum="1"/>
+                    <colspec align="left" colname="c2" colnum="2"/>
+                    <colspec align="left" colname="c3" colnum="3"/>
+                    <colspec align="left" colname="c4" colnum="4"/>
+                    <thead>
+                      <row>
+                        <entry align="left" colname="c1"/>
+                        <entry align="left" colname="c2">
+                          <SimplePara>In-plane lattice constant</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>Lattice mismatch</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>Surface free energy</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1"/>
+                        <entry align="left" colname="c2">
+                          <SimplePara>(Å)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>(%)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>(mJ/m <Superscript>2</Superscript>)</SimplePara>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Graphite(0 0 0 1)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>2.46</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>–</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>100</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Cu(1 1 1)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>2.55</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>3.65</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>1830</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Ag(1 1 1)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>2.88</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>17</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>1250</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Au(1 1 1)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>2.89</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>17.5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>1500</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </Table>
+              </Para>
+              <Para>It is evident from the experimental results in figure <InternalRef RefID="Fig1">1</InternalRef> that Cu does not form a good epitaxial layer on graphite(0001) surface. This possibly has to do with higher surface diffusivity and surface free energy of Cu on graphite(0 0 0 1) surface which helps to form clusters [<CitationRef CitationID="CR23">23</CitationRef>] and does not wet the surface even at LT [<CitationRef CitationID="CR35">35</CitationRef>]. As thickness increases, these small islands coalesce and form larger islands, each of them with Cu(1 1 1) orientation, but with smaller misalignments leading to broader LEED spot sizes. The large LEED background can be due to electron scattering from island boundaries and intrinsic defects. The absence of any SS or QW states after growing Cu film on graphite surface could be related to the cluster growth mode and higher surface diffusivity of Cu on graphite(0 0 0 1) surface.</Para>
+              <Para>For Ag on graphite, in spite of large interfacial strain, the growth is epitaxial though not of very good quality. This might be due to the lower surface energy of Ag compared to Cu at RT. Busolt <Emphasis Type="Italic">et al</Emphasis> [<CitationRef CitationID="CR36">36</CitationRef>] have reported that Ag clusters on graphite surface coalesce at LT. Hence, it is expected that Ag grows in clusters or islands with maximum island orientations along Ag(1 1 1) direction, while Ag films grown on graphite at LT and annealed to RT, exhibit good epitaxy as seen from LEED (not shown). LEED spots are more intense with a lower background intensity signifying better wetting of surface. Ag is known to form good epitaxial films on MoS<Subscript>2</Subscript> [<CitationRef CitationID="CR16">16</CitationRef>] with an observance of well-resolved Ag SS and QW states. In MoS<Subscript>2</Subscript>, the magnitude of strain is less compared to graphite, but with opposite sign, and as a result Ag grows epitaxially even at RT, in comparison to moderate quality growth at LT followed by RT annealing [<CitationRef CitationID="CR16">16</CitationRef>].</Para>
+              <Para>As surface free energy of Au is in between Ag and Cu, the large compressional strain of Au films on graphite render it to grow in polycrystalline clusters at RT which is evident from the ring-like LEED pattern in figure <InternalRef RefID="Fig3">3</InternalRef>, while in the case of Au on MoS<Subscript>2</Subscript> [<CitationRef CitationID="CR17">17</CitationRef>], the strain is comparatively less (8.5%) and is of opposite sign (tensile), resulting in better epitaxy on MoS<Subscript>2</Subscript> even at RT. From the experimental data, we can say that at least below 8 ML, the Au film grows epitaxially with large defect density. As the thickness increases, the strain build-up cannot be accommodated anymore and breaks up into random crystallites or islands showing orientational disorder in the two-dimensional plane. This kind of island growth possibly results from the high mobility of the Au atoms at RT, which can be arrested by growing Au on a cooled graphite substrate which is evident in figure <InternalRef RefID="Fig3">3</InternalRef>d.</Para>
+              <Para>ARPES spectra of 8 ML Au film on graphite grown at RT (see figure <InternalRef RefID="Fig5">5</InternalRef>a) show a modulation in intensity between Fermi energy and ∼2 eV of binding energy which is believed to be Au <Emphasis Type="Italic">sp</Emphasis> QW states similar to the case of Au QW states on Ag(1 1 1) surface [<CitationRef CitationID="CR33">33</CitationRef>]. These QW states which are related to the polycrystalline nature of the Au film grown on graphite at RT are not well-resolved. ARPES spectra measured on Au film grown at LT followed by annealing to RT are shown in figure <InternalRef RefID="Fig5">5</InternalRef>b, where a set of well-resolved QW states or resonances along with an intense SS are clearly visible. These Au QW states or more precisely, QW resonances disperse with parabolic dispersions within ∼2 eV from <Emphasis Type="Italic">E</Emphasis>
+                <Subscript>F</Subscript>. The intense bands beyond 2 eV binding energy are mostly of <Emphasis Type="Italic">d</Emphasis> character [<CitationRef CitationID="CR33">33</CitationRef>]. These Au <Emphasis Type="Italic">d</Emphasis> bands are closely spaced in energy due to its weak dispersion along this direction and appears more intense than the Au <Emphasis Type="Italic">sp</Emphasis>-derived bands [<CitationRef CitationID="CR33">33</CitationRef>]. Such discrete QW states were obtained for Au film thickness of 4 ML to 16 ML, and after that QW states start to merge together.
+<Figure Category="Standard" Float="Yes" ID="Fig5">
+                  <Caption Language="En">
+                    <CaptionNumber>Figure 5</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>ARPES spectra of <Emphasis Type="Bold">(a)</Emphasis> 8 ML of Au grown on graphite surface at RT, <Emphasis Type="Bold">(b)</Emphasis> 8 ML of Au film grown on graphite at LT and annealed to RT and <Emphasis Type="Bold">(c)</Emphasis> same as that of <Emphasis Type="Bold">(b)</Emphasis> with fitted lines for SS and QW features. See text for details.</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO5">
+                    <ImageObject Color="Color" FileRef="MediaObjects/12043_2015_994_Fig5_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+              <Para>Features of these dispersing QW states as shown in figure <InternalRef RefID="Fig5">5</InternalRef>b are identified and compared to the previous Au QW state studies on metallic substrates [<CitationRef CitationID="CR33">33</CitationRef>,<CitationRef CitationID="CR37">37</CitationRef>–<CitationRef CitationID="CR40">40</CitationRef>] and Au QW states on another layered semiconducting substrate, MoS<Subscript>2</Subscript> [<CitationRef CitationID="CR17">17</CitationRef>]. The dashed lines in figure <InternalRef RefID="Fig5">5</InternalRef>c are the parabolic fits to eq. (<InternalRef RefID="Equ1">1</InternalRef>), that are expected to be a good approximation for small <Emphasis Type="Italic">k</Emphasis>
+                <Subscript>∥</Subscript> vectors,
+<Equation ID="Equ1">
+                  <EquationNumber>1</EquationNumber>
+                  <MediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="12043_2015_994_Article_Equ1.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </MediaObject>
+                  <EquationSource Format="MATHML"><![CDATA[
+                        ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mi>E</mi>
+                      <mo>(</mo>
+                      <msub>
+                        <mrow>
+                          <mi>k</mi>
+                        </mrow>
+                        <mrow>
+                          <mo>∥</mo>
+                        </mrow>
+                      </msub>
+                      <mo>)</mo>
+                      <mo>=</mo>
+                      <mfrac>
+                        <mrow>
+                          <msup>
+                            <mrow>
+                              <mi>ℏ</mi>
+                            </mrow>
+                            <mrow>
+                              <mn>2</mn>
+                            </mrow>
+                          </msup>
+                          <msubsup>
+                            <mrow>
+                              <mi>k</mi>
+                            </mrow>
+                            <mrow>
+                              <mo>∥</mo>
+                            </mrow>
+                            <mrow>
+                              <mn>2</mn>
+                            </mrow>
+                          </msubsup>
+                        </mrow>
+                        <mrow>
+                          <mn>2</mn>
+                          <msubsup>
+                            <mrow>
+                              <mi>m</mi>
+                            </mrow>
+                            <mrow>
+                              <mo>∥</mo>
+                            </mrow>
+                            <mrow>
+                              <mo>∗</mo>
+                            </mrow>
+                          </msubsup>
+                        </mrow>
+                      </mfrac>
+                      <mo>+</mo>
+                      <msub>
+                        <mrow>
+                          <mi>E</mi>
+                        </mrow>
+                        <mrow>
+                          <mn>0</mn>
+                        </mrow>
+                      </msub>
+                      <mo>,</mo>
+                    </math><![CDATA[
+                    ]]></EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[$$ E(k_{\|})={\frac{{\hbar^{2}}{k_{\|}^{2}}}{2m_{\|}^{*}}+E_{0}}, $$]]></EquationSource>
+                </Equation>where <InlineEquation ID="IEq1">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="12043_2015_994_Article_IEq1.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="MATHML"><![CDATA[
+                        ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <msubsup>
+                        <mrow>
+                          <mi>m</mi>
+                        </mrow>
+                        <mrow>
+                          <mo>∥</mo>
+                        </mrow>
+                        <mrow>
+                          <mo>∗</mo>
+                        </mrow>
+                      </msubsup>
+                    </math><![CDATA[
+                    ]]></EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[$m_{\|}^{*}$]]></EquationSource>
+                </InlineEquation> is the in-plane effective mass of Au <Emphasis Type="Italic">sp</Emphasis> electrons on graphite(0 0 0 1) surface. The bottom of QW states at Γ cannot be assigned properly due to the intense Au <Emphasis Type="Italic">d</Emphasis> band near 2 eV binding energy. The SS fits with <Emphasis Type="Italic">E</Emphasis>
+                <Subscript>0</Subscript> = 450 meV and with an effective mass of <InlineEquation ID="IEq2">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="12043_2015_994_Article_IEq2.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="MATHML"><![CDATA[
+                        ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <msubsup>
+                        <mrow>
+                          <mi>m</mi>
+                        </mrow>
+                        <mrow>
+                          <mo>∥</mo>
+                        </mrow>
+                        <mrow>
+                          <mo>∗</mo>
+                        </mrow>
+                      </msubsup>
+                      <mo>=</mo>
+                      <mn>0.23</mn>
+                      <mi>m</mi>
+                    </math><![CDATA[
+                    ]]></EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[$m_{\|}^{*}=0.23m$]]></EquationSource>
+                </InlineEquation>, which is in agreement with the reported high-resolution ARPES study of Au(1 1 1) [<CitationRef CitationID="CR41">41</CitationRef>,<CitationRef CitationID="CR42">42</CitationRef>], whereas QW states were found to disperse with an effective mass of 0.25 to 0.5<Emphasis Type="Italic">m</Emphasis>, which are indeed small and close to that of Au QW states on MoS<Subscript>2</Subscript> [<CitationRef CitationID="CR17">17</CitationRef>]. A little movement of the parabolic QW state minima in a small binding energy window of 1.6 to 2 eV towards <Emphasis Type="Italic">E</Emphasis>
+                <Subscript>F</Subscript> is due to the flatter dispersion of the Au <Emphasis Type="Italic">sp</Emphasis> bands along ΓL direction as seen on Au QWS on MoS<Subscript>2</Subscript> [<CitationRef CitationID="CR17">17</CitationRef>].</Para>
+              <Para>Another important aspect to note about these QW states is their dispersion, which are fitted to parabolas with low effective masses. These low values of effective masses suggest that the Au /graphite is a rather weakly correlated system [<CitationRef CitationID="CR43">43</CitationRef>] as observed for the Au /MoS<Subscript>2</Subscript> system [<CitationRef CitationID="CR17">17</CitationRef>] with similar effective masses. The calculated band structure of freely standing Au(1 1 1) surface [<CitationRef CitationID="CR38">38</CitationRef>,<CitationRef CitationID="CR44">44</CitationRef>] and 12 ML Au film on semi-infinite Ag(1 1 1) surface [<CitationRef CitationID="CR33">33</CitationRef>] also show a number of standing QW states or resonances, which are in similitude with QW state features in Au /graphite system. Based on these facts, it can be concluded that the Au on graphite(0 0 0 1) is also a weakly interacting system, where most of the quantum phenomena on the surface are governed by the Au layers with little hybridization effects from the substrate. However, for better quantitative understanding, a more rigorous theoretical consideration is necessary.</Para>
+            </Section1>
+            <Section1 ID="Sec8">
+              <Heading>Conclusions</Heading>
+              <Para>In conclusion, we have studied the growth modes of noble metal thin films on graphite’s van der Waals’ surface at RT as well as at LT (followed by RT annealing) and evolution of surface electronic structure due to possible quantum confinement effects using LEED and ARPES. Cu has been found to grow in clusters at RT as well as at LT and does not show any quantum size effect. Ag and Au grew epitaxially at LT followed by RT annealing in the presence of sharp SS. No QW states /resonances could be detected in the Ag film grown at LT which is related to a very low cross-section of the Ag <Emphasis Type="Italic">sp</Emphasis> electrons on graphite surface, whereas Au films grown at LT demonstrate very sharp SS, Au bulk bands and well-resolved QW states /resonances. The observed low in-plane dispersion of Au QW states /resonances is found to have close resemblance with free-standing Au QW states, whereas, upon increasing the Au film thickness the very small movement of QW states towards <Emphasis Type="Italic">E</Emphasis>
+                <Subscript>F</Subscript> is observed due to the flatter dispersion of the Au <Emphasis Type="Italic">sp</Emphasis> electrons along ΓL symmetry direction.</Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/12043_2015_Article_994.pdf" TargetType="OnlinePDF"/>
+          <BodyRef FileRef="BodyRef/PDF/12043_2015_994_TEX.zip" TargetType="TEX"/>
+          <ArticleBackmatter>
+            <Acknowledgments>
+              <Heading>Acknowledgements</Heading>
+              <SimplePara>The authors acknowledge the Micro-Nano Initiative Programme of the Department of Atomic Energy (DAE), Govt. of India for generous funding and support.</SimplePara>
+            </Acknowledgments>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>[1]</CitationNumber>
+                <BibUnstructured>I Matsuda, H W Yeom, T Tanikawa, K Tono, T Nagao, S Hasegawa and T Ohta, <Emphasis Type="Italic">Phys. Rev. B</Emphasis>
+                  <Emphasis Type="Bold">63</Emphasis>, 125325 (2001)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>[2]</CitationNumber>
+                <BibUnstructured>I Matsuda, T Ohta and H W Yeom, <Emphasis Type="Italic">Phys. Rev. B</Emphasis>
+                  <Emphasis Type="Bold">65</Emphasis>, 085327 (2002)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>[3]</CitationNumber>
+                <BibUnstructured>T Hirahara, T Nagao, I Matsuda, G Bihlmayer, E V Chulkov, Yu M Koroteev and S Hasegawa, <Emphasis Type="Italic">Phys. Rev. B</Emphasis>
+                  <Emphasis Type="Bold">75</Emphasis>, 035422 (2007)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>[4]</CitationNumber>
+                <BibUnstructured>J H Dil, J W Kim, T. Kampen, K Horn and A R H F Ettema, <Emphasis Type="Italic">Phys. Rev. B</Emphasis>
+                  <Emphasis Type="Bold">73</Emphasis>, 161308 (2006)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>[5]</CitationNumber>
+                <BibUnstructured>Z Klusek, J Balcerski, W Olejniczak and P Kobierski, <Emphasis Type="Italic">Electron Technol.</Emphasis>
+                  <Emphasis Type="Bold">31</Emphasis>, 512 (1998)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>[6]</CitationNumber>
+                <BibUnstructured>S Y Zhou, G-H Gweon, C D Spataru, J Graf, D-H Lee, Steven G Louie and A Lanzara, <Emphasis Type="Italic">Phys. Rev. B</Emphasis>
+                  <Emphasis Type="Bold">71</Emphasis>, 161403 (2005)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>[7]</CitationNumber>
+                <BibUnstructured>R C Tatar and S Rabii <Emphasis Type="Italic">Phys. Rev. B</Emphasis>
+                  <Emphasis Type="Bold">25</Emphasis>, 4126 (1982)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>[8]</CitationNumber>
+                <BibUnstructured>S Y Zhou, G-H Gweon and A Lanzara, <Emphasis Type="Italic">Ann. Phys.</Emphasis>
+                  <Emphasis Type="Bold">321</Emphasis>, 1730 (2006)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>[9]</CitationNumber>
+                <BibUnstructured>A R Law, M T Johnson and H P Hughes, <Emphasis Type="Italic">Phys. Rev. B</Emphasis>
+                  <Emphasis Type="Bold">34</Emphasis>, 4289 (1986)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>[10]</CitationNumber>
+                <BibUnstructured>A H Castro Neto, F Guinea, N M R Peres, K S Novoselov and A K Geim, <Emphasis Type="Italic">Rev. Mod. Phys.</Emphasis>
+                  <Emphasis Type="Bold">81</Emphasis>, 109 (2009)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>[11]</CitationNumber>
+                <BibUnstructured>K S Novoselov, A K Geim, S V Morosov, D Jiang, Y Zhang, S V Dubonos, I V Grigorieva and A A Firsov, <Emphasis Type="Italic">Science</Emphasis>
+                  <Emphasis Type="Bold">306</Emphasis>, 666 (2004)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>[12]</CitationNumber>
+                <BibUnstructured>T Hayakawa, H Yasumatsu and T Kondow, <Emphasis Type="Italic">Eur. Phys. J. D</Emphasis>
+                  <Emphasis Type="Bold">52</Emphasis>, 95 (2009)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>[13]</CitationNumber>
+                <BibUnstructured>G M Francis, I M Goldby, L Kuipers, B von Issendorff and R E Palmer, <Emphasis Type="Italic">J. Chem. Soc., Dalton Trans.</Emphasis>, <Emphasis Type="Bold">5</Emphasis>, 665 (1996)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>[14]</CitationNumber>
+                <BibUnstructured>M L Bortz, F S Ohuchi and B A Parkinson, <Emphasis Type="Italic">Surf. Sci.</Emphasis>
+                  <Emphasis Type="Bold">223</Emphasis>, 285 (1989)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>[15]</CitationNumber>
+                <BibUnstructured>G Nicolay, R Claessen, F Reinert, V N Strocov, S Hüfner, H Gao, U Hartmann and E Buchar, <Emphasis Type="Italic">Surf. Sci.</Emphasis>
+                  <Emphasis Type="Bold">432</Emphasis>, 95 (1999)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>[16]</CitationNumber>
+                <BibUnstructured>S K Mahatha and Krishnakumar S R Menon, <Emphasis Type="Italic">J. Phys.: Condens. Matter</Emphasis>
+                  <Emphasis Type="Bold">25</Emphasis>, 115501 (2013)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>[17]</CitationNumber>
+                <BibUnstructured>S K Mahatha and Krishnakumar S R Menon, <Emphasis Type="Italic">J. Electron Spectrosc. Relat. Phenom.</Emphasis>
+                  <Emphasis Type="Bold">193</Emphasis>, 43 (2014)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>[18]</CitationNumber>
+                <BibUnstructured>W Jaegermann, C Pettenkofer and B A Parkinson, <Emphasis Type="Italic">Phys. Rev. B</Emphasis>
+                  <Emphasis Type="Bold">42</Emphasis>, 7487 (1990)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>[19]</CitationNumber>
+                <BibUnstructured>A Klein, C Pettenkofer, W Jaegermann, M Lux-Steiner and E Bucher, <Emphasis Type="Italic">Surf. Sci.</Emphasis>
+                  <Emphasis Type="Bold">321</Emphasis>, 19 (1994)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>[20]</CitationNumber>
+                <BibUnstructured>F Patthey and W-D Schneider, <Emphasis Type="Italic">Phys. Rev. B</Emphasis>
+                  <Emphasis Type="Bold">50</Emphasis>, 17560 (1994)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>[21]</CitationNumber>
+                <BibUnstructured>E Ganz, K Sattler and J Clarke, <Emphasis Type="Italic">Phys. Rev. Lett.</Emphasis>
+                  <Emphasis Type="Bold">60</Emphasis>, 1856 (1988)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>[22]</CitationNumber>
+                <BibUnstructured>E Ganz, K Sattler and J Clarke, <Emphasis Type="Italic">J. Vac. Sci. Technol. A</Emphasis>
+                  <Emphasis Type="Bold">6</Emphasis>, 419 (1988)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>[23]</CitationNumber>
+                <BibUnstructured>E Ganz, K Sattler and J Clarke, <Emphasis Type="Italic">Surf. Sci.</Emphasis>
+                  <Emphasis Type="Bold">219</Emphasis>, 33 (1989)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>[24]</CitationNumber>
+                <BibUnstructured>A Humbert, M Dayez, S Sangay, C Chapon and C R Henry, <Emphasis Type="Italic">J. Vac. Sci. Technol. A</Emphasis>
+                  <Emphasis Type="Bold">8</Emphasis>, 311 (1990)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>[25]</CitationNumber>
+                <BibUnstructured>S K Mahatha and Krishnakumar S R Menon, <Emphasis Type="Italic">Curr. Sci.</Emphasis>
+                  <Emphasis Type="Bold">98</Emphasis>, 759 (2010)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>[26]</CitationNumber>
+                <BibUnstructured>S K Mahatha and Krishnakumar S R Menon, <Emphasis Type="Italic">J. Phys.: Cond. Matter</Emphasis>
+                  <Emphasis Type="Bold">24</Emphasis>, 305502 (2012)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>[27]</CitationNumber>
+                <BibUnstructured>S K Mahatha, Krishnakumar S R Menon and T Balasubramanian, <Emphasis Type="Italic">Phys. Rev. B</Emphasis>
+                  <Emphasis Type="Bold">84</Emphasis>, 113106 (2011)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <CitationNumber>[28]</CitationNumber>
+                <BibUnstructured>S K Mahatha and Krishnakumar S R Menon, <Emphasis Type="Italic">Surf. Sci.</Emphasis>
+                  <Emphasis Type="Bold">606</Emphasis>, 1705 (2012)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR29">
+                <CitationNumber>[29]</CitationNumber>
+                <BibUnstructured>M Kralj, A Siber, P Pervan, M Milun, T Valla, P D Johnson and D P Woodruff, <Emphasis Type="Italic">Phys Rev. B</Emphasis>
+                  <Emphasis Type="Bold">64</Emphasis>, 085411 (2001)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR30">
+                <CitationNumber>[30]</CitationNumber>
+                <BibUnstructured>P Moras and C Carbone, <Emphasis Type="Italic">J. Phys.: Condens. Matter</Emphasis>
+                  <Emphasis Type="Bold">21</Emphasis>, 355502 (2009)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR31">
+                <CitationNumber>[31]</CitationNumber>
+                <BibUnstructured>P Moras, D Topwal, P M Sheverdyaeva, L Ferrari, J Fujii, G Bihlmayer, S Blügel and C Carbone, <Emphasis Type="Italic">Phys. Rev. B</Emphasis>
+                  <Emphasis Type="Bold">80</Emphasis>, 205418 (2009)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR32">
+                <CitationNumber>[32]</CitationNumber>
+                <BibUnstructured>V M Trontl, P Pervan and M Milun, <Emphasis Type="Italic">Surf. Sci.</Emphasis>
+                  <Emphasis Type="Bold">603</Emphasis>, 125 (2009)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR33">
+                <CitationNumber>[33]</CitationNumber>
+                <BibUnstructured>D Topwal, U Manju, D Pacilé, M Papagno, D Wortmann, G Bihlmayer, S Blügel and C Carbone, <Emphasis Type="Italic">Phys. Rev. B</Emphasis>
+                  <Emphasis Type="Bold">86</Emphasis>, 085419 (2012)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR34">
+                <CitationNumber>[34]</CitationNumber>
+                <BibUnstructured>Q Jiang, H M Lu and M Zhao, <Emphasis Type="Italic">J. Phys.: Condens. Matter</Emphasis>
+                  <Emphasis Type="Bold">16</Emphasis>, 521 (2004)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR35">
+                <CitationNumber>[35]</CitationNumber>
+                <BibUnstructured>W F Egelhoff Jr and G G Tibbetts, <Emphasis Type="Italic">Phys. Rev. B</Emphasis>
+                  <Emphasis Type="Bold">19</Emphasis>, 5028 (1979)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR36">
+                <CitationNumber>[36]</CitationNumber>
+                <BibUnstructured>U Busolt, E Cottancin, L Socaciu, H Rohr, T Leisner and L Woste, <Emphasis Type="Italic">Eur. Phys. J. D</Emphasis>
+                  <Emphasis Type="Bold">16</Emphasis>, 297 (2001)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR37">
+                <CitationNumber>[37]</CitationNumber>
+                <BibUnstructured>A M Shikin, O Rader, W Gudat, G V Prudnikova and V K Adamchuk, <Emphasis Type="Italic">Surf. Rev. Lett.</Emphasis>
+                  <Emphasis Type="Bold">9</Emphasis>, 1375 (2002)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR38">
+                <CitationNumber>[38]</CitationNumber>
+                <BibUnstructured>I N Yakovkin, <Emphasis Type="Italic">Eur. Phys. J. B</Emphasis> (2012), DOI: <ExternalRef>
+                    <RefSource>10.1140/epjb/ e2012-20854-3</RefSource>
+                    <RefTarget Address="10.1140/epjb/e2012-20854-3" TargetType="DOI"/>
+                  </ExternalRef>
+                </BibUnstructured>
+              </Citation>
+              <Citation ID="CR39">
+                <CitationNumber>[39]</CitationNumber>
+                <BibUnstructured>E Hüger and K Osuch, <Emphasis Type="Italic">Phys. Rev. B</Emphasis>
+                  <Emphasis Type="Bold">68</Emphasis>, 205424 (2003)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR40">
+                <CitationNumber>[40]</CitationNumber>
+                <BibUnstructured>S Ogawa, S Heike, H Takahashi and T Hashizume, <Emphasis Type="Italic">Phys. Rev. B</Emphasis>
+                  <Emphasis Type="Bold">75</Emphasis>, 115319 (2007)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR41">
+                <CitationNumber>[41]</CitationNumber>
+                <BibUnstructured>G Nicolay, F Reinert, S Hüfner and P Blaha, <Emphasis Type="Italic">Phys. Rev. B</Emphasis>
+                  <Emphasis Type="Bold">65</Emphasis>, 033407 (2001)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR42">
+                <CitationNumber>[42]</CitationNumber>
+                <BibUnstructured>S LaShell, B A McDougall and E Jensen, <Emphasis Type="Italic">Phys. Rev. Lett.</Emphasis>
+                  <Emphasis Type="Bold">77</Emphasis>, 3419 (1996)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR43">
+                <CitationNumber>[43]</CitationNumber>
+                <BibUnstructured>P Höpfner, J Schäfer, A Fleszar, S Meyer, C Blumenstein, T Schramm, M Heßmann, X Cui, L Patthey, W Hanke and R Claessen, <Emphasis Type="Italic">Phys. Rev. B</Emphasis>
+                  <Emphasis Type="Bold">83</Emphasis>, 235435 (2011)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR44">
+                <CitationNumber>[44]</CitationNumber>
+                <BibUnstructured>Yu S Dedkov, E N Voloshina and M Fonin, <Emphasis Type="Italic">Surf. Sci.</Emphasis>
+                  <Emphasis Type="Bold">600</Emphasis>, 4328 (2006)</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

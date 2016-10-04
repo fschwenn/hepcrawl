@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>The Korean Physical Society</PublisherName>
+    <PublisherLocation>Seoul</PublisherLocation>
+    <PublisherImprintName>The Korean Physical Society, co-published with Springer</PublisherImprintName>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>40042</JournalID>
+      <JournalPrintISSN>0374-4884</JournalPrintISSN>
+      <JournalElectronicISSN>1976-8524</JournalElectronicISSN>
+      <JournalTitle>Journal of the Korean Physical Society</JournalTitle>
+      <JournalAbbreviatedTitle>Journal of the Korean Physical Society</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCP" Type="Primary">Physics</JournalSubject>
+        <JournalSubject Code="SCP00002" Priority="1" Type="Secondary">Physics, general</JournalSubject>
+        <JournalSubject Code="SCP19005" Priority="2" Type="Secondary">Theoretical, Mathematical and Computational Physics</JournalSubject>
+        <JournalSubject Code="SCP23002" Priority="3" Type="Secondary">Particle and Nuclear Physics</JournalSubject>
+        <SubjectCollection Code="SC12">Physics and Astronomy</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>66</VolumeIDStart>
+        <VolumeIDEnd>66</VolumeIDEnd>
+        <VolumeIssueCount>24</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>9</IssueIDStart>
+          <IssueIDEnd>9</IssueIDEnd>
+          <IssueArticleCount>22</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>15</Day>
+            </OnlineDate>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+            </CoverDate>
+            <PricelistYear>2015</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>The Korean Physical Society</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="jkps.66.1422" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>1422</ArticleID>
+            <ArticleDOI>10.3938/jkps.66.1422</ArticleDOI>
+            <ArticleSequenceNumber>20</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Synthesis of highly crystalline Ga-doped zinc-oxide nanoparticles for hybrid polymer solar cells</ArticleTitle>
+            <ArticleFirstPage>1422</ArticleFirstPage>
+            <ArticleLastPage>1425</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>13</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2014</Year>
+                <Month>11</Month>
+                <Day>3</Day>
+              </Received>
+              <Accepted>
+                <Year>2014</Year>
+                <Month>12</Month>
+                <Day>31</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>The Korean Physical Society</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Hye-Jeong</GivenName>
+                  <FamilyName>Park</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Kang</GivenName>
+                  <GivenName>Hyuck</GivenName>
+                  <FamilyName>Lee</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Ivaturi</GivenName>
+                  <FamilyName>Sameera</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1 Aff2" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Sang-Woo</GivenName>
+                  <FamilyName>Kim</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Fax>+82-31-290-7352</Fax>
+                  <Email>kimsw1@skku.edu</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>School of Advanced Materials Science and Engineering</OrgDivision>
+                <OrgName>Sungkyunkwan University (SKKU)</OrgName>
+                <OrgAddress>
+                  <City>Suwon</City>
+                  <Postcode>440-746</Postcode>
+                  <Country>Korea</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgName>SKKU Advanced Institute of Nanotechnology (SAINT) and Center for Human Interface Nanotechnology (HINT), SKKU</OrgName>
+                <OrgAddress>
+                  <City>Suwon</City>
+                  <Postcode>440-746</Postcode>
+                  <Country>Korea</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>Gallium (Ga)-doped zinc-oxide (ZnO) nanoparticles (NPs) were synthesized by using a polymer pyrolysis method. The smallest size of the obtained 4-mol% Ga-doped zinc-oxide (GZO) spherical NPs was approximately 10–15 nm, and the presence of Ga was confirmed by using X-ray photoelectron spectroscopy. To examine the role of GZO NPs, fabricated hybrid polymer solar cells (HPSCs) by using blends of a conjugated polymer poly (3-hexalthiophene) as an electron donor and crystalline GZO NPs as an electron acceptor. Significant improvements in the short-circuit current density and fill factor compared to these for the undoped ZnO (UZO) NPs were achieved by using the GZO NPs. This suggests that the GZO NPs have higher electron mobility than the UZO NPs and possess great potential for use as electron acceptor in HPSCs.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>Ga-doped ZnO nanoparticles</Keyword>
+              <Keyword>Hybrid polymer solar cells</Keyword>
+              <Keyword>Bulk heterojunction</Keyword>
+            </KeywordGroup>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/40042_2015_Article_1422.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>[1]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>W. J. E.</Initials>
+                    <FamilyName>Beek</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M. M.</Initials>
+                    <FamilyName>Wienk</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R. A. J.</Initials>
+                    <FamilyName>Janssen</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Adv. Funct. Mater.</JournalTitle>
+                  <VolumeID>16</VolumeID>
+                  <FirstPage>1112</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/adfm.200500573</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>W. J. E. Beek, M. M. Wienk and R. A. J. Janssen, Adv. Funct. Mater. <Emphasis Type="Bold">16</Emphasis>, 1112 (2006).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>[2]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P. A. C.</Initials>
+                    <FamilyName>Quist</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W. J. E.</Initials>
+                    <FamilyName>Beek</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M. M.</Initials>
+                    <FamilyName>Wienk</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R. A. J.</Initials>
+                    <FamilyName>Janssen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T. J.</Initials>
+                    <FamilyName>Savenije</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L. D. A.</Initials>
+                    <FamilyName>Siebbeles</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>J. Phys. Chem.</JournalTitle>
+                  <VolumeID>110</VolumeID>
+                  <FirstPage>10315</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1021/jp055492m</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>P. A. C. Quist, W. J. E. Beek, M. M. Wienk, R. A. J. Janssen, T. J. Savenije and L. D. A. Siebbeles, J. Phys. Chem. <Emphasis Type="Bold">110</Emphasis>, 10315 (2006).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>[3]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Bundesmann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N.</Initials>
+                    <FamilyName>Ashkenov</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Schubert</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Spemann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Butz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E. M.</Initials>
+                    <FamilyName>Kaidashev</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Lorenz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Grundmann</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Appl. Phys. Lett.</JournalTitle>
+                  <VolumeID>83</VolumeID>
+                  <FirstPage>1974</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1063/1.1609251</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2003ApPhL..83.1974B</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>C. Bundesmann, N. Ashkenov, M. Schubert, D. Spemann, T. Butz, E. M. Kaidashev, M. Lorenz and M. Grundmann, Appl. Phys. Lett. <Emphasis Type="Bold">83</Emphasis>, 1974 (2003).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>[4]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H. J.</Initials>
+                    <FamilyName>Ko</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y. F.</Initials>
+                    <FamilyName>Chen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S. K.</Initials>
+                    <FamilyName>Hong</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Wenisch</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Yao</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D. C.</Initials>
+                    <FamilyName>Look</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Appl. Phys. Lett.</JournalTitle>
+                  <VolumeID>77</VolumeID>
+                  <FirstPage>3761</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1063/1.1331089</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2000ApPhL..77.3761K</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>H. J. Ko, Y. F. Chen, S. K. Hong, H. Wenisch, T. Yao and D. C. Look, Appl. Phys. Lett. <Emphasis Type="Bold">77</Emphasis>, 3761 (2000).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>[5]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Z. F.</Initials>
+                    <FamilyName>Liu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F. K.</Initials>
+                    <FamilyName>Shan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y. X.</Initials>
+                    <FamilyName>Li</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B. C.</Initials>
+                    <FamilyName>Shin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y. S.</Initials>
+                    <FamilyName>Yu</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>J. Cryst. Growth</JournalTitle>
+                  <VolumeID>259</VolumeID>
+                  <FirstPage>130</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.jcrysgro.2003.07.007</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2003JCrGr.259..130L</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Z. F. Liu, F. K. Shan, Y. X. Li, B. C. Shin and Y. S. Yu, J. Cryst. Growth <Emphasis Type="Bold">259</Emphasis>, 130 (2003).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>[6]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Hartner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Ali</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Schulz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Winterer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Wiggers</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Nanotechnology</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <FirstPage>445701</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/0957-4484/20/44/445701</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2009Nanot..20R5701H</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>S. Hartner, M. Ali, C. Schulz, M. Winterer and H. Wiggers, Nanotechnology <Emphasis Type="Bold">20</Emphasis>, 445701 (2009).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>[7]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Gong</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Z. H.</Initials>
+                    <FamilyName>Chen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F. L.</Initials>
+                    <FamilyName>Tang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P. H.</Initials>
+                    <FamilyName>Pi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>X. F.</Initials>
+                    <FamilyName>Wen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D. F.</Initials>
+                    <FamilyName>Zheng</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Cheng</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Z. R.</Initials>
+                    <FamilyName>Yang</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>J. Chin. Ceram. Soc.</JournalTitle>
+                  <VolumeID>37</VolumeID>
+                  <FirstPage>648</FirstPage>
+                </BibArticle>
+                <BibUnstructured>S. Gong, Z. H. Chen, F. L. Tang, P. H. Pi, X. F. Wen, D. F. Zheng, J. Cheng and Z. R. Yang, J. Chin. Ceram. Soc. <Emphasis Type="Bold">37</Emphasis>, 648 (2009).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>[8]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>F. F.</Initials>
+                    <FamilyName>Bai</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>He</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.</Initials>
+                    <FamilyName>He</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y. W.</Initials>
+                    <FamilyName>Tang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Z. J.</Initials>
+                    <FamilyName>Jia</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Mater. Lett.</JournalTitle>
+                  <VolumeID>60</VolumeID>
+                  <FirstPage>3126</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.matlet.2006.02.057</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>F. F. Bai, Y. He, P. He, Y. W. Tang and Z. J. Jia, Mater. Lett. <Emphasis Type="Bold">60</Emphasis>, 3126 (2006).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>[9]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Sankur</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J. T.</Initials>
+                    <FamilyName>Cheung</FamilyName>
+                  </BibAuthorName>
+                  <Year>1983</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>J. Vac. Sci. Technol. A</JournalTitle>
+                  <VolumeID>1</VolumeID>
+                  <FirstPage>1806</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1116/1.572219</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>1983JVST....1.1806S</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>H. Sankur and J. T. Cheung, J. Vac. Sci. Technol. A <Emphasis Type="Bold">1</Emphasis>, 1806 (1983).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>[10]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Oku</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Niihara</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Suganuma</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>J. Mater. Chem.</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <FirstPage>1323</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1039/a801912f</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>T. Oku, K. Niihara and K. Suganuma, J. Mater. Chem. <Emphasis Type="Bold">8</Emphasis>, 1323 (1998).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>[11]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Z. Z.</Initials>
+                    <FamilyName>Ye</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y. J.</Initials>
+                    <FamilyName>Zeng</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y. F.</Initials>
+                    <FamilyName>Lu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S. S.</Initials>
+                    <FamilyName>Lin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>Sun</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L. P.</Initials>
+                    <FamilyName>Zhu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B. H.</Initials>
+                    <FamilyName>Zhao</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Appl. Phys. Lett.</JournalTitle>
+                  <VolumeID>91</VolumeID>
+                  <FirstPage>112110</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1063/1.2784198</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2007ApPhL..91k2110Y</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Z. Z. Ye, Y. J. Zeng, Y. F. Lu, S. S. Lin, L. Sun, L. P. Zhu and B. H. Zhao, Appl. Phys. Lett. <Emphasis Type="Bold">91</Emphasis>, 112110 (2007).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>[12]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K.-S.</Initials>
+                    <FamilyName>Shin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.-J.</Initials>
+                    <FamilyName>Park</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G. C.</Initials>
+                    <FamilyName>Yoon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.-W.</Initials>
+                    <FamilyName>Jeong</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Kumar</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.-W.</Initials>
+                    <FamilyName>Kim</FamilyName>
+                  </BibAuthorName>
+                  <Year>2013</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>J. Phys. Chem. C</JournalTitle>
+                  <VolumeID>117</VolumeID>
+                  <FirstPage>24692</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1021/jp407017z</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>K-S. Shin, H-J. Park, G. C. Yoon, S-W. Jeong, B. Kumar and S-W. Kim, J. Phys. Chem. C <Emphasis Type="Bold">117</Emphasis>, 24692 (2013).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>[13]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Z. B.</Initials>
+                    <FamilyName>Ayadi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L. E.</Initials>
+                    <FamilyName>Mir</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Djessas</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Alaya</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Nanotechnology</JournalTitle>
+                  <VolumeID>18</VolumeID>
+                  <FirstPage>445702</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/0957-4484/18/44/445702</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Z. B. Ayadi, L. E. Mir, K. Djessas and S. Alaya, Nanotechnology <Emphasis Type="Bold">18</Emphasis>, 445702 (2007).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>[14]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C. X.</Initials>
+                    <FamilyName>Xu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>X. W.</Initials>
+                    <FamilyName>Sun</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B. J.</Initials>
+                    <FamilyName>Chen</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Appl. Phys. Lett.</JournalTitle>
+                  <VolumeID>84</VolumeID>
+                  <FirstPage>1540</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1063/1.1651328</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2004ApPhL..84.1540X</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>C. X. Xu, X. W. Sun and B. J. Chen, Appl. Phys. Lett. <Emphasis Type="Bold">84</Emphasis>, 1540 (2004).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>[15]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Cimitan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Albonetti</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>Forni</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F.</Initials>
+                    <FamilyName>Peri</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Lazzari</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>J. Colloid Inter. Sc.</JournalTitle>
+                  <VolumeID>329</VolumeID>
+                  <FirstPage>73</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.jcis.2008.09.060</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>S. Cimitan, S. Albonetti, L. Forni, F. Peri and D. Lazzari, J. Colloid Inter. Sc. <Emphasis Type="Bold">329</Emphasis>, 73 (2009).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>[16]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Serier</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Demourgues</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Gaudon</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Inorg. Chem.</JournalTitle>
+                  <VolumeID>49</VolumeID>
+                  <FirstPage>6853</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1021/ic1000733</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>H. Serier, A. Demourgues and M. Gaudon, Inorg. Chem. <Emphasis Type="Bold">49</Emphasis>, 6853 (2010).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>[17]</CitationNumber>
+                <BibUnstructured>W. Korner and C. Elsasser, Phys. Rev. B <Emphasis Type="Bold">81</Emphasis>, 085324 (2010).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>[18]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S. V.</Initials>
+                    <FamilyName>Bhat</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Govindaraj</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C. N. R.</Initials>
+                    <FamilyName>Rao</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Sol. Energ. Mat. Sol. Cells</JournalTitle>
+                  <VolumeID>95</VolumeID>
+                  <FirstPage>2318</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.solmat.2011.03.047</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>S. V. Bhat, A. Govindaraj and C. N. R. Rao, Sol. Energ. Mat. Sol. Cells <Emphasis Type="Bold">95</Emphasis>, 2318 (2011).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>[19]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Zhou</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Eck</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Kruger</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Energy Environ. Sci.</JournalTitle>
+                  <VolumeID>3</VolumeID>
+                  <FirstPage>1851</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1039/c0ee00143k</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Y. Zhou, M. Eck and M. Kruger, Energy Environ. Sci. <Emphasis Type="Bold">3</Emphasis>, 1851 (2010).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>[20]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Zhong</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Muthukumar</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Chen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Lu</FamilyName>
+                  </BibAuthorName>
+                  <Year>2013</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Appl. Phys. Lett.</JournalTitle>
+                  <VolumeID>83</VolumeID>
+                  <FirstPage>3401</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1063/1.1621729</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2003ApPhL..83.3401Z</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>J. Zhong, S. Muthukumar, Y. Chen and Y. Lu, Appl. Phys. Lett. <Emphasis Type="Bold">83</Emphasis>, 3401 (2013).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>[21]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S. D.</Initials>
+                    <FamilyName>Oosterhout</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M. M.</Initials>
+                    <FamilyName>Wienk</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S. S.</Initials>
+                    <FamilyName>Bavel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Thiedmann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L. J. A.</Initials>
+                    <FamilyName>Koster</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Gilot</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Loos</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V.</Initials>
+                    <FamilyName>Schmidt</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R. A. J.</Initials>
+                    <FamilyName>Janssen</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Nat. Mater.</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <FirstPage>818</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1038/nmat2533</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2009NatMa...8..818O</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>S. D. Oosterhout, M. M. Wienk, S. S. Bavel, R. Thiedmann, L. J. A. Koster, J. Gilot, J. Loos, V. Schmidt and R. A. J. Janssen, Nat. Mater. <Emphasis Type="Bold">8</Emphasis>, 818 (2010).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>[22]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Wang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A. W.</Initials>
+                    <FamilyName>Sleight</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Chem. Mater.</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <FirstPage>433</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1021/cm950372k</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>R. Wang and A. W. Sleight, Chem. Mater. <Emphasis Type="Bold">8</Emphasis>, 433 (1996).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>[23]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S.-S.</Initials>
+                    <FamilyName>Li</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.-P.</Initials>
+                    <FamilyName>Chang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.-C.</Initials>
+                    <FamilyName>Lin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y.-Y.</Initials>
+                    <FamilyName>Lin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.-H.</Initials>
+                    <FamilyName>Chang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.R.</Initials>
+                    <FamilyName>Yang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.-W.</Initials>
+                    <FamilyName>Chu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.-W.</Initials>
+                    <FamilyName>Che</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>J. Am. Chem. Soc.</JournalTitle>
+                  <VolumeID>133</VolumeID>
+                  <FirstPage>11614</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1021/ja203151z</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>S-S. Li, C-P. Chang, C-C. Lin, Y-Y. Lin, C-H. Chang, JR. Yang, M-W. Chu and C-W. Che, J. Am. Chem. Soc. <Emphasis Type="Bold">133</Emphasis>, 11614 (2011).</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

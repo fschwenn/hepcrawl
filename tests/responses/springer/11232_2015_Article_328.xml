@@ -1,0 +1,1299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Pleiades Publishing</PublisherName>
+    <PublisherLocation>Moscow</PublisherLocation>
+    <PublisherImprintName>MAIK Nauka/Interperiodica</PublisherImprintName>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>11232</JournalID>
+      <JournalDOI>10.1134/11232.1573-9333</JournalDOI>
+      <JournalPrintISSN>0040-5779</JournalPrintISSN>
+      <JournalElectronicISSN>1573-9333</JournalElectronicISSN>
+      <JournalTitle>Theoretical and Mathematical Physics</JournalTitle>
+      <JournalAbbreviatedTitle>Theor Math Phys</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCP" Type="Primary">Physics</JournalSubject>
+        <JournalSubject Code="SCP19005" Priority="1" Type="Secondary">Theoretical, Mathematical and Computational Physics</JournalSubject>
+        <JournalSubject Code="SCM13003" Priority="2" Type="Secondary">Applications of Mathematics</JournalSubject>
+        <SubjectCollection Code="SC12">Physics and Astronomy</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>184</VolumeIDStart>
+        <VolumeIDEnd>184</VolumeIDEnd>
+        <VolumeIssueCount>3</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>3</IssueIDStart>
+          <IssueIDEnd>3</IssueIDEnd>
+          <IssueArticleCount>18</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2015</Year>
+              <Month>10</Month>
+              <Day>10</Day>
+            </OnlineDate>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>9</Month>
+            </CoverDate>
+            <PricelistYear>2015</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Pleiades Publishing, Ltd.</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s11232-015-0328-5" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>328</ArticleID>
+            <ArticleDOI>10.1007/s11232-015-0328-5</ArticleDOI>
+            <ArticleSequenceNumber>3</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Quantum cosmology of multifield scalar matter: Some exact solutions</ArticleTitle>
+            <ArticleFirstPage>1224</ArticleFirstPage>
+            <ArticleLastPage>1233</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>9</Day>
+              </RegistrationDate>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>11</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Pleiades Publishing, Ltd.</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>A.</GivenName>
+                  <GivenName>A.</GivenName>
+                  <FamilyName>Andrianov</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>sashaandrianov@gmail.com</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>O.</GivenName>
+                  <GivenName>O.</GivenName>
+                  <FamilyName>Novikov</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>oonovikov@gmail.com</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Lan</GivenName>
+                  <FamilyName>Chen</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgName>St. Petersburg State University</OrgName>
+                <OrgAddress>
+                  <City>St. Petersburg</City>
+                  <Country>Russia</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>We consider gravity interacting with matter scalar fields and quantized in the superspace approach in which the wave functional is described by the Wheeler–DeWitt equations. Assuming the dominance of the homogeneous and isotropic geometry, we investigate the leading contribution to the wave functional in the minisuperspace approximation with the Friedmann–Robertson–Walker metric and scalar fields depending on the time parameter. We construct a model of several scalar fields with exponential potentials and kinetic terms admitting a special mixing such that it is ultimately possible to separate the variables in the Wheeler–DeWitt equation and find its exact solution in terms of special functions. We study the semiclassical approximation in detail and choose boundary conditions that allow selecting the physical solution for classical cosmologies.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>quantum cosmology</Keyword>
+              <Keyword>Wheeler–DeWitt equation</Keyword>
+              <Keyword>minisuperspace</Keyword>
+              <Keyword>exponential potential</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>Translated from Teoreticheskaya i Matematicheskaya Fizika, Vol. 184, No. 3, pp. 380–391, September, 2015.</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/11232_2015_Article_328.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>A. A.</Initials>
+                    <FamilyName>Starobinsky</FamilyName>
+                  </BibAuthorName>
+                  <Year>1986</Year>
+                  <ChapterTitle Language="En">Stochastic de Sitter (inflationary stage in the early universe)</ChapterTitle>
+                  <BookTitle>Field Theory, Quantum Gravity, and Strings</BookTitle>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Berlin</PublisherLocation>
+                  <FirstPage>107</FirstPage>
+                  <LastPage>126</LastPage>
+                </BibChapter>
+                <BibUnstructured>A. A. Starobinsky, “Stochastic de Sitter (inflationary stage in the early universe),” in: Field Theory, Quantum Gravity, and Strings (Lect. Notes Phys¿, Vol. 246, H. J. de Vega and N. Sánchez, eds.), Springer, Berlin (1986), pp. 107–126</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>1.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>A. D.</Initials>
+                    <FamilyName>Linde</FamilyName>
+                  </BibAuthorName>
+                  <Year>1990</Year>
+                  <BookTitle>Particle Physics and Inflationary Cosmology</BookTitle>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/B978-0-12-450145-4.50004-9</Handle>
+                  </Occurrence>
+                </BibBook>
+                <BibUnstructured>A. D. Linde, Particle Physics and Inflationary Cosmology (Contemp. Concepts Phys., Vol. 5), CRC, Boca Raton, Fla. (1990); arXiv:hep-th/0503203v1 (2005).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A. G.</Initials>
+                    <FamilyName>Riess</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1998</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Astron. J.</JournalTitle>
+                  <VolumeID>116</VolumeID>
+                  <FirstPage>1009</FirstPage>
+                  <LastPage>1038</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1086/300499</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>1998AJ....116.1009R</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>A. G. Riess et al. [Supernova Search Team Collab.], <Emphasis Type="Italic">Astron. J.</Emphasis>, <Emphasis Type="Bold">116</Emphasis>, 1009–1038 (1998); arXiv:astro-ph/9805201v1 (1998)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Perlmutter</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1999</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Astrophys. J.</JournalTitle>
+                  <VolumeID>517</VolumeID>
+                  <FirstPage>565</FirstPage>
+                  <LastPage>586</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1086/307221</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>1999ApJ...517..565P</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>S. Perlmutter et al. [Supernova Cosmology Project Collab.], <Emphasis Type="Italic">Astrophys. J.</Emphasis>, <Emphasis Type="Bold">517</Emphasis>, 565–586 (1999); arXiv:astro-ph/9812133v1 (1998).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>V.</Initials>
+                    <FamilyName>Sahni</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A. A.</Initials>
+                    <FamilyName>Starobinsky</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Internat. J. Mod. Phys. D</JournalTitle>
+                  <VolumeID>9</VolumeID>
+                  <FirstPage>373</FirstPage>
+                  <LastPage>444</LastPage>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2000IJMPD...9..373S</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>V. Sahni and A. A. Starobinsky, <Emphasis Type="Italic">Internat. J. Mod. Phys. D</Emphasis>, <Emphasis Type="Bold">9</Emphasis>, 373–444 (2000); arXiv:astro-ph/9904398v2 (1999)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>V.</Initials>
+                    <FamilyName>Sahni</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A. A.</Initials>
+                    <FamilyName>Starobinsky</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Internat. J. Mod. Phys. D</JournalTitle>
+                  <VolumeID>15</VolumeID>
+                  <FirstPage>2105</FirstPage>
+                  <LastPage>2132</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>2311317</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1142/S0218271806009704</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2006IJMPD..15.2105S</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1118.83001</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>V. Sahni and A. A. Starobinsky, <Emphasis Type="Italic">Internat. J. Mod. Phys. D</Emphasis>, <Emphasis Type="Bold">15</Emphasis>, 2105–2132 (2006); arXiv:astro-ph/0610026v3 (2006)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Padmanabhan</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Phys. Rept.</JournalTitle>
+                  <VolumeID>380</VolumeID>
+                  <FirstPage>235</FirstPage>
+                  <LastPage>320</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>1992680</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0370-1573(03)00120-0</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2003PhR...380..235P</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1027.83544</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>T. Padmanabhan, <Emphasis Type="Italic">Phys. Rept.</Emphasis>, <Emphasis Type="Bold">380</Emphasis>, 235–320 (2003); arXiv:hep-th/0212290v2 (2002)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P. J. E.</Initials>
+                    <FamilyName>Peebles</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Ratra</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Rev. Modern Phys.</JournalTitle>
+                  <VolumeID>75</VolumeID>
+                  <FirstPage>559</FirstPage>
+                  <LastPage>606</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>1973358</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1103/RevModPhys.75.559</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2003RvMP...75..559P</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1205.83082</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>P. J. E. Peebles and B. Ratra, <Emphasis Type="Italic">Rev. Modern Phys.</Emphasis>, <Emphasis Type="Bold">75</Emphasis>, 559–606 (2003); arXiv:astro-ph/0207347v2 (2002)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E. J.</Initials>
+                    <FamilyName>Copeland</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Sami</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Tsujikawa</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Internat. J. Mod. Phys. D</JournalTitle>
+                  <VolumeID>15</VolumeID>
+                  <FirstPage>1753</FirstPage>
+                  <LastPage>1936</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>2289260</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1142/S021827180600942X</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2006IJMPD..15.1753C</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1203.83061</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>E. J. Copeland, M. Sami, and S. Tsujikawa, <Emphasis Type="Italic">Internat. J. Mod. Phys. D</Emphasis>, <Emphasis Type="Bold">15</Emphasis>, 1753–1936 (2006); arXiv:hep-th/0603057v3 (2006).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>F.</Initials>
+                    <FamilyName>Lucchin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Matarrese</FamilyName>
+                  </BibAuthorName>
+                  <Year>1985</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Phys. Rev. D</JournalTitle>
+                  <VolumeID>32</VolumeID>
+                  <FirstPage>1316</FirstPage>
+                  <LastPage>1322</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1103/PhysRevD.32.1316</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>1985PhRvD..32.1316L</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>F. Lucchin and S. Matarrese, <Emphasis Type="Italic">Phys. Rev. D</Emphasis>, <Emphasis Type="Bold">32</Emphasis>, 1316–1322 (1985).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J. J.</Initials>
+                    <FamilyName>Halliwell</FamilyName>
+                  </BibAuthorName>
+                  <Year>1987</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Phys. Lett. B</JournalTitle>
+                  <VolumeID>185</VolumeID>
+                  <FirstPage>341</FirstPage>
+                  <LastPage>344</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>881135</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0370-2693(87)91011-2</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>1987PhLB..185..341H</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>J. J. Halliwell, <Emphasis Type="Italic">Phys. Lett. B</Emphasis>, <Emphasis Type="Bold">185</Emphasis>, 341–344 (1987).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J. D.</Initials>
+                    <FamilyName>Barrow</FamilyName>
+                  </BibAuthorName>
+                  <Year>1987</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Phys. Lett. B</JournalTitle>
+                  <VolumeID>187</VolumeID>
+                  <FirstPage>12</FirstPage>
+                  <LastPage>16</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>875788</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0370-2693(87)90063-3</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>1987PhLB..187...12B</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>J. D. Barrow, <Emphasis Type="Italic">Phys. Lett. B</Emphasis>, <Emphasis Type="Bold">187</Emphasis>, 12–16 (1987).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A. B.</Initials>
+                    <FamilyName>Burd</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J. D.</Initials>
+                    <FamilyName>Barrow</FamilyName>
+                  </BibAuthorName>
+                  <Year>1988</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Nucl. Phys. B</JournalTitle>
+                  <VolumeID>308</VolumeID>
+                  <FirstPage>929</FirstPage>
+                  <LastPage>945</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>965446</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0550-3213(88)90135-6</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>1988NuPhB.308..929B</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>A. B. Burd and J. D. Barrow, <Emphasis Type="Italic">Nucl. Phys. B</Emphasis>, <Emphasis Type="Bold">308</Emphasis>, 929–945 (1988).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>de Ritis</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Marmo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Platania</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Rubano</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.</Initials>
+                    <FamilyName>Scudellaro</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Stornaiolo</FamilyName>
+                  </BibAuthorName>
+                  <Year>1990</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Phys. Rev. D</JournalTitle>
+                  <VolumeID>42</VolumeID>
+                  <FirstPage>1091</FirstPage>
+                  <LastPage>1097</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>1068848</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1103/PhysRevD.42.1091</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>1990PhRvD..42.1091D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>R. de Ritis, G. Marmo, G. Platania, C. Rubano, P. Scudellaro, and C. Stornaiolo, <Emphasis Type="Italic">Phys. Rev. D</Emphasis>, <Emphasis Type="Bold">42</Emphasis>, 1091–1097 (1990).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>9.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>V.</Initials>
+                    <FamilyName>Muller</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H. J.</Initials>
+                    <FamilyName>Schmidt</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A. A.</Initials>
+                    <FamilyName>Starobinsky</FamilyName>
+                  </BibAuthorName>
+                  <Year>1990</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Class. Q. Grav.</JournalTitle>
+                  <VolumeID>7</VolumeID>
+                  <FirstPage>1163</FirstPage>
+                  <LastPage>1168</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>1058336</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/0264-9381/7/7/012</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>1990CQGra...7.1163M</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>V. Muller, H. J. Schmidt, and A. A. Starobinsky, <Emphasis Type="Italic">Class. Q. Grav.</Emphasis>, <Emphasis Type="Bold">7</Emphasis>, 1163–1168 (1990).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G. F. R.</Initials>
+                    <FamilyName>Ellis</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M. S.</Initials>
+                    <FamilyName>Madsen</FamilyName>
+                  </BibAuthorName>
+                  <Year>1991</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Class. Q. Grav.</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <FirstPage>667</FirstPage>
+                  <LastPage>676</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>1100126</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/0264-9381/8/4/012</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>1991CQGra...8..667E</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0722.53080</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>G. F. R. Ellis and M. S. Madsen, <Emphasis Type="Italic">Class. Q. Grav.</Emphasis>, <Emphasis Type="Bold">8</Emphasis>, 667–676 (1991).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>11.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A. R.</Initials>
+                    <FamilyName>Liddle</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R. J.</Initials>
+                    <FamilyName>Scherrer</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Phys. Rev. D</JournalTitle>
+                  <VolumeID>59</VolumeID>
+                  <FirstPage>023509</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1103/PhysRevD.59.023509</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>1999PhRvD..59b3509L</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>A. R. Liddle and R. J. Scherrer, <Emphasis Type="Italic">Phys. Rev. D</Emphasis>, <Emphasis Type="Bold">59</Emphasis>, 023509 (1999); arXiv:astro-ph/9809272v1 (1998).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>V.</Initials>
+                    <FamilyName>Gorini</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A. Y.</Initials>
+                    <FamilyName>Kamenshchik</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>U.</Initials>
+                    <FamilyName>Moschella</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V.</Initials>
+                    <FamilyName>Pasquier</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Phys. Rev. D</JournalTitle>
+                  <VolumeID>69</VolumeID>
+                  <FirstPage>123512</FirstPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>2095949</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1103/PhysRevD.69.123512</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2004PhRvD..69l3512G</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>V. Gorini, A. Y. Kamenshchik, U. Moschella, and V. Pasquier, <Emphasis Type="Italic">Phys. Rev. D</Emphasis>, <Emphasis Type="Bold">69</Emphasis>, 123512 (2004); arXiv:hep-th/ 0311111v2 (2003).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J. M.</Initials>
+                    <FamilyName>Aguirregabiria</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L. P.</Initials>
+                    <FamilyName>Chimento</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Class. Q Grav.</JournalTitle>
+                  <VolumeID>13</VolumeID>
+                  <FirstPage>3197</FirstPage>
+                  <LastPage>3209</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>1425533</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/0264-9381/13/12/010</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>1996CQGra..13.3197A</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0861.35124</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>J. M. Aguirregabiria and L. P. Chimento, <Emphasis Type="Italic">Class. Q Grav.</Emphasis>, <Emphasis Type="Bold">13</Emphasis>, 3197–3209 (1996).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>14.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L. P.</Initials>
+                    <FamilyName>Chimento</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Class. Q. Grav.</JournalTitle>
+                  <VolumeID>15</VolumeID>
+                  <FirstPage>965</FirstPage>
+                  <LastPage>974</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>1620229</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/0264-9381/15/4/017</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>1998CQGra..15..965C</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0933.83052</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>L. P. Chimento, <Emphasis Type="Italic">Class. Q. Grav.</Emphasis>, <Emphasis Type="Bold">15</Emphasis>, 965–974 (1998).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>15.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Rubano</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.</Initials>
+                    <FamilyName>Scudellaro</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Gen. Rel. Grav.</JournalTitle>
+                  <VolumeID>34</VolumeID>
+                  <FirstPage>307</FirstPage>
+                  <LastPage>328</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>1906433</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1015395512123</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>C. Rubano and P. Scudellaro, <Emphasis Type="Italic">Gen. Rel. Grav.</Emphasis>, <Emphasis Type="Bold">34</Emphasis>, 307–328; arXiv:astro-ph/0103335v3 (2001).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>16.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Rubano</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J. D.</Initials>
+                    <FamilyName>Barrow</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Phys. Rev. D</JournalTitle>
+                  <VolumeID>64</VolumeID>
+                  <FirstPage>127301</FirstPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>1878203</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1103/PhysRevD.64.127301</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2001PhRvD..64l7301R</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>C. Rubano and J. D. Barrow, <Emphasis Type="Italic">Phys. Rev. D</Emphasis>, <Emphasis Type="Bold">64</Emphasis>, 127301 (2001); arXiv:gr-qc/0105037v2 (2001).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>17.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>P. K.</Initials>
+                    <FamilyName>Townsend</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ChapterTitle Language="En">Cosmic acceleration and M-theory</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>Z.</Initials>
+                    <FamilyName>J.-C</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>XIVth International Congress on Mathematical Physics</BookTitle>
+                  <PublisherName>World Scientific</PublisherName>
+                  <PublisherLocation>Singapore</PublisherLocation>
+                  <FirstPage>655</FirstPage>
+                  <LastPage>662</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1142/9789812704016_0067</Handle>
+                  </Occurrence>
+                </BibChapter>
+                <BibUnstructured>P. K. Townsend, “Cosmic acceleration and M-theory,” in: XIVth International Congress on Mathematical Physics (Lisbon, Portugal, 28 July–2 August 2003, J.-C. Zambrini, ed.), World Scientific, Singapore (2006), pp. 655–662; arXiv:hep-th/0308149v2 (2003).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>18.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L. P.</Initials>
+                    <FamilyName>Chimento</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A. E.</Initials>
+                    <FamilyName>Cossarini</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N. A.</Initials>
+                    <FamilyName>Zuccalá</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Class. Q. Grav.</JournalTitle>
+                  <VolumeID>15</VolumeID>
+                  <FirstPage>57</FirstPage>
+                  <LastPage>74</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/0264-9381/15/1/006</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>1998CQGra..15...57C</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0914.53064</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>L. P. Chimento, A. E. Cossarini, and N. A. Zuccalá, <Emphasis Type="Italic">Class. Q. Grav.</Emphasis>, <Emphasis Type="Bold">15</Emphasis>, 57–74 (1998).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>19.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P. K.</Initials>
+                    <FamilyName>Townsend</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M. N. R.</Initials>
+                    <FamilyName>Wohlfarth</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Phys. Rev. Lett.</JournalTitle>
+                  <VolumeID>91</VolumeID>
+                  <FirstPage>061302</FirstPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>2006808</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1103/PhysRevLett.91.061302</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2003PhRvL..91f1302T</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>P. K. Townsend and M. N. R. Wohlfarth, <Emphasis Type="Italic">Phys. Rev. Lett.</Emphasis>, <Emphasis Type="Bold">91</Emphasis>, 061302 (2003); arXiv:hep-th/0303097v3 (2003).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>20.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Emparan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Garriga</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>JHEP</JournalTitle>
+                  <VolumeID>0305</VolumeID>
+                  <FirstPage>028</FirstPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>1994148</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/1126-6708/2003/05/028</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2003JHEP...05..028E</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>R. Emparan and J. Garriga, <Emphasis Type="Italic">JHEP</Emphasis>, <Emphasis Type="Bold">0305</Emphasis>, 028 (2003); arXiv:hep-th/0304124v2 (2003).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>21.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>I. P.</Initials>
+                    <FamilyName>Neupane</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Class. Q. Grav.</JournalTitle>
+                  <VolumeID>21</VolumeID>
+                  <FirstPage>4383</FirstPage>
+                  <LastPage>4397</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>2090483</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/0264-9381/21/18/007</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2004CQGra..21.4383N</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1061.83082</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>I. P. Neupane, <Emphasis Type="Italic">Class. Q. Grav.</Emphasis>, <Emphasis Type="Bold">21</Emphasis>, 4383–4397 (2004); arXiv:hep-th/0311071v4 (2003).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <CitationNumber>22.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J. G.</Initials>
+                    <FamilyName>Russo</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Phys. Lett. B</JournalTitle>
+                  <VolumeID>600</VolumeID>
+                  <FirstPage>185</FirstPage>
+                  <LastPage>190</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>2093037</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.physletb.2004.09.007</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2004PhLB..600..185R</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1247.83298</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>J. G. Russo, <Emphasis Type="Italic">Phys. Lett. B</Emphasis>, <Emphasis Type="Bold">600</Emphasis>, 185–190 (2004); arXiv:hep-th/0403010v3 (2004).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR29">
+                <CitationNumber>23.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E.</Initials>
+                    <FamilyName>Elizalde</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E. S.</Initials>
+                    <FamilyName>Nojiri</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S. D.</Initials>
+                    <FamilyName>Odintsov</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Phys. Rev. D</JournalTitle>
+                  <VolumeID>70</VolumeID>
+                  <FirstPage>043539</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1103/PhysRevD.70.043539</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2004PhRvD..70d3539E</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>E. Elizalde E., S. Nojiri, and S. D. Odintsov, <Emphasis Type="Italic">Phys. Rev. D</Emphasis>, <Emphasis Type="Bold">70</Emphasis>, 043539 (2004); arXiv:hep-th/0405034v2 (2004).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR30">
+                <CitationNumber>24.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E.</Initials>
+                    <FamilyName>Dudas</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N.</Initials>
+                    <FamilyName>Kitazawa</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Sagnotti</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Phys. Lett. B</JournalTitle>
+                  <VolumeID>694</VolumeID>
+                  <FirstPage>80</FirstPage>
+                  <LastPage>88</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>2728389</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.physletb.2010.09.040</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2010PhLB..694...80D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>E. Dudas, N. Kitazawa, and A. Sagnotti, <Emphasis Type="Italic">Phys. Lett. B</Emphasis>, <Emphasis Type="Bold">694</Emphasis>, 80–88 (2010); arXiv:1009.0874v1 [hep-th] (2010).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR31">
+                <CitationNumber>25.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A. A.</Initials>
+                    <FamilyName>Andrianov</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F.</Initials>
+                    <FamilyName>Cannata</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A. Yu.</Initials>
+                    <FamilyName>Kamenshchik</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>JCAP</JournalTitle>
+                  <VolumeID>1110</VolumeID>
+                  <FirstPage>004</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/1475-7516/2011/10/004</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2011JCAP...10..004A</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>A. A. Andrianov, F. Cannata, and A. Yu. Kamenshchik, <Emphasis Type="Italic">JCAP</Emphasis>, <Emphasis Type="Bold">1110</Emphasis>, 004 (2011); arXiv:1105.4515v1 [gr-qc] (2011)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR32">
+                <CitationNumber>25.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A. A.</Initials>
+                    <FamilyName>Andrianov</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F.</Initials>
+                    <FamilyName>Cannata</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A. Yu.</Initials>
+                    <FamilyName>Kamenshchik</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Phys. Rev. D</JournalTitle>
+                  <VolumeID>86</VolumeID>
+                  <FirstPage>107303</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1103/PhysRevD.86.107303</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2012PhRvD..86j7303A</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>A. A. Andrianov, F. Cannata, and A. Yu. Kamenshchik, <Emphasis Type="Italic">Phys. Rev. D</Emphasis>, <Emphasis Type="Bold">86</Emphasis>, 107303 (2012).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR33">
+                <CitationNumber>26.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E.</Initials>
+                    <FamilyName>Piedipalumbo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.</Initials>
+                    <FamilyName>Scudellaro</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Esposito</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Rubano</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Gen. Rel. Grav.</JournalTitle>
+                  <VolumeID>44</VolumeID>
+                  <FirstPage>2611</FirstPage>
+                  <LastPage>2643</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>2970615</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s10714-012-1421-9</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2012GReGr..44.2611P</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1255.83165</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>E. Piedipalumbo, P. Scudellaro, G. Esposito, and C. Rubano, <Emphasis Type="Italic">Gen. Rel. Grav.</Emphasis>, <Emphasis Type="Bold">44</Emphasis>, 2611–2643 (2012); arXiv: 1112.0502v1 [astro-ph.CO] (2011).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR34">
+                <CitationNumber>27.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Kiefer</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <BookTitle>Quantum Gravity</BookTitle>
+                  <PublisherName>Oxford Univ. Press</PublisherName>
+                  <PublisherLocation>Oxford</PublisherLocation>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1093/acprof:oso/9780199212521.001.0001</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1123.83002</Handle>
+                  </Occurrence>
+                </BibBook>
+                <BibUnstructured>C. Kiefer, <Emphasis Type="Italic">Quantum Gravity</Emphasis> (Intl. Ser. Monogr. Phys., Vol. 136), Oxford Univ. Press, Oxford (2007).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR35">
+                <CitationNumber>28.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y. F.</Initials>
+                    <FamilyName>Cai</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E. N.</Initials>
+                    <FamilyName>Saridakis</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M. R.</Initials>
+                    <FamilyName>Setare</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.-Q.</Initials>
+                    <FamilyName>Xia</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Phys. Rept.</JournalTitle>
+                  <VolumeID>493</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>60</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>2670980</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.physrep.2010.04.001</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2010PhR...493....1C</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Y. F. Cai, E. N. Saridakis, M. R. Setare, and J.-Q. Xia, <Emphasis Type="Italic">Phys. Rept.</Emphasis>, <Emphasis Type="Bold">493</Emphasis>, 1–60 (2010); arXiv:0909.2776v2 [hep-th] (2009).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR36">
+                <CitationNumber>29.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T. M.</Initials>
+                    <FamilyName>Dunster</FamilyName>
+                  </BibAuthorName>
+                  <Year>1990</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>SIAM J. Math. Anal.</JournalTitle>
+                  <VolumeID>21</VolumeID>
+                  <FirstPage>995</FirstPage>
+                  <LastPage>1018</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>1052883</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1137/0521055</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0703.33002</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>T. M. Dunster, <Emphasis Type="Italic">SIAM J. Math. Anal.</Emphasis>, <Emphasis Type="Bold">21</Emphasis>, 995–1018 (1990).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR37">
+                <CitationNumber>30.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>I. S.</Initials>
+                    <FamilyName>Gradshteyn</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I. M.</Initials>
+                    <FamilyName>Ryzhik</FamilyName>
+                  </BibAuthorName>
+                  <Year>1980</Year>
+                  <BookTitle>Tables of Integrals, Series, and Products</BookTitle>
+                  <PublisherName>Acad. Press</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>I. S. Gradshteyn and I. M. Ryzhik, <Emphasis Type="Italic">Tables of Integrals, Series, and Products</Emphasis>, Acad. Press, New York (1980).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR38">
+                <CitationNumber>31.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A. O.</Initials>
+                    <FamilyName>Barvinsky</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A. Yu.</Initials>
+                    <FamilyName>Kamenshchik</FamilyName>
+                  </BibAuthorName>
+                  <Year>2014</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Phys. Rev. D</JournalTitle>
+                  <VolumeID>89</VolumeID>
+                  <FirstPage>043526</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1103/PhysRevD.89.043526</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2014PhRvD..89d3526B</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>A. O. Barvinsky and A. Yu. Kamenshchik, <Emphasis Type="Italic">Phys. Rev. D</Emphasis>, <Emphasis Type="Bold">89</Emphasis>, 043526 (2014); arXiv:1312.3147v2 [gr-qc] (2013).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR39">
+                <CitationNumber>32.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>C. M.</Initials>
+                    <FamilyName>Bender</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S. A.</Initials>
+                    <FamilyName>Orszag</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <BookTitle>Advanced Mathematical Methods for Scientists and Engineers: I. Asymptotic Methods and Perturbation Theory</BookTitle>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/978-1-4757-3069-2</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0938.34001</Handle>
+                  </Occurrence>
+                </BibBook>
+                <BibUnstructured>C. M. Bender and S. A. Orszag, <Emphasis Type="Italic">Advanced Mathematical Methods for Scientists and Engineers: I. Asymptotic Methods and Perturbation Theory</Emphasis>, Springer, New York (1999).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR40">
+                <CitationNumber>33.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Bateman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Erdélyi</FamilyName>
+                  </BibAuthorName>
+                  <Year>1953</Year>
+                  <BookTitle>Higher Transcendental Functions</BookTitle>
+                  <PublisherName>McGraw-Hill</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>H. Bateman and A. Erdélyi, <Emphasis Type="Italic">Higher Transcendental Functions</Emphasis>, Vol. 2, McGraw-Hill, New York (1953).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR41">
+                <CitationNumber>34.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A. A.</Initials>
+                    <FamilyName>Andrianov</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F.</Initials>
+                    <FamilyName>Cannata</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A. Yu.</Initials>
+                    <FamilyName>Kamenshchik</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Regoli</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>J. Modern Phys. D</JournalTitle>
+                  <VolumeID>19</VolumeID>
+                  <FirstPage>97</FirstPage>
+                  <LastPage>111</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1142/S0218271810016269</Handle>
+                  </Occurrence>
+                  <Occurrence Type="Bibcode">
+                    <Handle>2010IJMPD..19...97A</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1187.83072</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>A. A. Andrianov, F. Cannata, A. Yu. Kamenshchik, and D. Regoli, <Emphasis Type="Italic">J. Modern Phys. D</Emphasis>, <Emphasis Type="Bold">19</Emphasis>, 97–111 (2010).</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

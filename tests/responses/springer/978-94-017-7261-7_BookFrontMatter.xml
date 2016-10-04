@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Netherlands</PublisherName>
+    <PublisherLocation>Dordrecht</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+    <PublisherLogo>
+      <Figure Category="Standard" Float="No" ID="Figa">
+        <MediaObject ID="MO1">
+          <ImageObject Color="BlackWhite" FileRef="MediaObjects/301831_1_En_BookFrontmatter_Figa_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+        </MediaObject>
+      </Figure>
+    </PublisherLogo>
+  </PublisherInfo>
+  <Series>
+    <SeriesInfo ID="Series_1" SeriesType="Series" TocLevels="0">
+      <SeriesID>6001</SeriesID>
+      <SeriesTitle Language="En">Fundamental Theories of Physics</SeriesTitle>
+      <SeriesAbbreviatedTitle>Fundamental Theor. Physics</SeriesAbbreviatedTitle>
+    </SeriesInfo>
+    <SeriesHeader>
+      <CollaboratorGroup>
+        <Collaborator AffiliationIDS="Aff1" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Henk</GivenName>
+            <FamilyName>van Beijeren</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff2" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Philippe</GivenName>
+            <FamilyName>Blanchard</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff3" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Paul</GivenName>
+            <FamilyName>Busch</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff4" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Bob</GivenName>
+            <FamilyName>Coecke</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff5" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Dennis</GivenName>
+            <FamilyName>Dieks</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff6" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Detlef</GivenName>
+            <FamilyName>Dürr</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff7" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Roman</GivenName>
+            <FamilyName>Frigg</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff8" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Christopher</GivenName>
+            <FamilyName>Fuchs</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff9" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Giancarlo</GivenName>
+            <FamilyName>Ghirardi</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff10" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Domenico J. W.</GivenName>
+            <FamilyName>Giulini</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff11" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Gregg</GivenName>
+            <FamilyName>Jaeger</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff12" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Claus</GivenName>
+            <FamilyName>Kiefer</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff13" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Nicolaas P.</GivenName>
+            <FamilyName>Landsman</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff14" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Christian</GivenName>
+            <FamilyName>Maes</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff15" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Hermann</GivenName>
+            <FamilyName>Nicolai</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff16" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Vesselin</GivenName>
+            <FamilyName>Petkov</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff17" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Alwyn</GivenName>
+            <Particle>van der</Particle>
+            <FamilyName>Merwe</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff18" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Rainer</GivenName>
+            <FamilyName>Verch</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff19" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>R. F.</GivenName>
+            <FamilyName>Werner</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Collaborator AffiliationIDS="Aff20" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>Christian</GivenName>
+            <FamilyName>Wuthrich</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Affiliation ID="Aff1">
+          <OrgAddress>
+            <City>Utrecht</City>
+            <Country>The Netherlands</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff2">
+          <OrgAddress>
+            <City>Bielefeld</City>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff3">
+          <OrgAddress>
+            <City>York</City>
+            <Country>United Kingdom</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff4">
+          <OrgDivision>Wolfson Building</OrgDivision>
+          <OrgName>Oxford University Computing Laboratory</OrgName>
+          <OrgAddress>
+            <City>Oxford</City>
+            <Country>United Kingdom</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff5">
+          <OrgDivision>Institute for History &amp; Foundations of S</OrgDivision>
+          <OrgName>Utrecht University</OrgName>
+          <OrgAddress>
+            <City>Utrecht</City>
+            <Country>The Netherlands</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff6">
+          <OrgName>Universität München Mathematisches Institut</OrgName>
+          <OrgAddress>
+            <City>München</City>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff7">
+          <OrgDivision>Dept. Philosophy, Logic &amp; Scientific Method</OrgDivision>
+          <OrgName>London School of Economics &amp; Political Science</OrgName>
+          <OrgAddress>
+            <City>London</City>
+            <Country>United Kingdom</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff8">
+          <OrgDivision>Physics Department</OrgDivision>
+          <OrgName>University of Massachusetts Boston</OrgName>
+          <OrgAddress>
+            <City>Boston</City>
+            <State>Massachusetts</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff9">
+          <OrgAddress>
+            <City>Trieste</City>
+            <Country>Italy</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff10">
+          <OrgDivision>Raumfahrttechnologie und Mikrogravitation (ZARM)</OrgDivision>
+          <OrgName>Universität Bremen Zentrum für Angewandte</OrgName>
+          <OrgAddress>
+            <City>Bremen</City>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff11">
+          <OrgAddress>
+            <City>Boston</City>
+            <State>Massachusetts</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff12">
+          <OrgAddress>
+            <City>Köln</City>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff13">
+          <OrgAddress>
+            <City>Nijmegen</City>
+            <Country>The Netherlands</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff14">
+          <OrgName>Katholieke Universiteit Leuven Instituut Voor Theoretische Fysica</OrgName>
+          <OrgAddress>
+            <City>Leuven</City>
+            <Country>Belgium</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff15">
+          <OrgName>Max-Planck-Institut für Gravitationsphys Albert-Einstein-Institut</OrgName>
+          <OrgAddress>
+            <City>Potsdam</City>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff16">
+          <OrgAddress>
+            <City>Montreal</City>
+            <State>Québec</State>
+            <Country>Canada</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff17">
+          <OrgName>University of Denver Foundations of Physics</OrgName>
+          <OrgAddress>
+            <City>Denver</City>
+            <State>Colorado</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff18">
+          <OrgAddress>
+            <City>Leipzig</City>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff19">
+          <OrgDivision>Institut für Theoretische Physik</OrgDivision>
+          <OrgName>Leibniz Universitaet Hannover</OrgName>
+          <OrgAddress>
+            <City>Hannover</City>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff20">
+          <OrgAddress>
+            <City>La Jolla</City>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+      </CollaboratorGroup>
+      <SeriesInformationText>
+        <Para>The international monograph series “Fundamental Theories of Physics” aims to stretch the boundaries of mainstream physics by clarifying and developing the theoretical and conceptual framework of physics and by applying it to a wide range of interdisciplinary scientific fields. Original contributions in well-established fields such as Quantum Physics, Relativity Theory, Cosmology, Quantum Field Theory, Statistical Mechanics and Nonlinear Dynamics are welcome. The series also provides a forum for non-conventional approaches to these fields. Publications should present new and promising ideas, with prospects for their further development, and carefully show how they connect to conventional views of the topic. Although the aim of this series is to go beyond established mainstream physics, a high profile and open-minded Editorial Board will evaluate all contributions carefully to ensure a high scientific standard.</Para>
+        <Para ID="Par1">
+          More information about this series at
+          <ExternalRef>
+            <RefSource>http://www.springer.com/series/6001</RefSource>
+            <RefTarget Address="http://www.springer.com/series/6001" TargetType="URL"/>
+          </ExternalRef>
+        </Para>
+      </SeriesInformationText>
+    </SeriesHeader>
+    <Book Language="En" OutputMedium="All">
+      <BookInfo BookProductType="Monograph" ContainsESM="No" Language="En" MediaType="eBook" NumberingDepth="3" NumberingStyle="ChapterContent" OutputMedium="All" TocLevels="2">
+        <BookID>978-94-017-7261-7</BookID>
+        <BookTitle>Relativistic Quantum Mechanics</BookTitle>
+        <BookVolumeNumber>180</BookVolumeNumber>
+        <BookSequenceNumber>180</BookSequenceNumber>
+        <BookDOI>10.1007/978-94-017-7261-7</BookDOI>
+        <BookTitleID>301831</BookTitleID>
+        <BookPrintISBN>978-94-017-7260-0</BookPrintISBN>
+        <BookElectronicISBN>978-94-017-7261-7</BookElectronicISBN>
+        <CatalogingInformation Library="LOC">Library of Congress Control Number: 2015944499</CatalogingInformation>
+        <BookEdition>1st ed. 2015</BookEdition>
+        <BookChapterCount>11</BookChapterCount>
+        <BookCopyright>
+          <CopyrightHolderName>Springer Science+Business Media Dordrecht</CopyrightHolderName>
+          <CopyrightYear>2015</CopyrightYear>
+          <CopyrightStandardText Country="NL" Language="En">This work is subject to copyright. All rights are reserved by the Publisher, whether the whole or part of the material is concerned, specifically the rights of translation, reprinting, reuse of illustrations, recitation, broadcasting, reproduction on microfilms or in any other physical way, and transmission or information storage and retrieval, electronic adaptation, computer software, or by similar or dissimilar methodology now known or hereafter developed.</CopyrightStandardText>
+          <TrademarkQualifierText Country="NL" Language="En">The use of general descriptive names, registered names, trademarks, service marks, etc. in this publication does not imply, even in the absence of a specific statement, that such names are exempt from the relevant protective laws and regulations and therefore free for general use.</TrademarkQualifierText>
+          <ProductLiability Country="NL" Language="En">The publisher, the authors and the editors are safe to assume that the advice and information in this book are believed to be true and accurate at the date of publication. Neither the publisher nor the authors or the editors give a warranty, express or implied, with respect to the material contained herein or for any errors or omissions that may have been made.</ProductLiability>
+          <SpringerReferenceLine Country="NL" Language="En">Springer Science+Business Media B.V. Dordrecht is part of Springer Science+Business Media (www.springer.com)</SpringerReferenceLine>
+          <SpringerLocationsLine>Springer Dordrecht Heidelberg New York London</SpringerLocationsLine>
+        </BookCopyright>
+        <PaperInfo Language="En">Printed on acid-free paper</PaperInfo>
+        <BookSubjectGroup>
+          <BookSubject Code="SCP" Type="Primary">Physics</BookSubject>
+          <BookSubject Code="SCP19080" Priority="1" Type="Secondary">Quantum Physics</BookSubject>
+          <BookSubject Code="SCP19070" Priority="2" Type="Secondary">Classical and Quantum Gravitation, Relativity Theory</BookSubject>
+          <BookSubject Code="SCP29000" Priority="3" Type="Secondary">History and Philosophical Foundations of Physics</BookSubject>
+          <SubjectCollection Code="SUCO11651">Physics and Astronomy</SubjectCollection>
+        </BookSubjectGroup>
+        <BookContext>
+          <SeriesID>6001</SeriesID>
+        </BookContext>
+        <BookstoreLocation>Physics</BookstoreLocation>
+      </BookInfo>
+      <BookHeader>
+        <AuthorGroup>
+          <Author AffiliationIDS="Aff21 Aff22 Aff23" ID="Au1">
+            <AuthorName DisplayOrder="Western">
+              <GivenName>Lawrence</GivenName>
+              <GivenName>P.</GivenName>
+              <FamilyName>Horwitz</FamilyName>
+            </AuthorName>
+          </Author>
+          <Affiliation ID="Aff21">
+            <OrgDivision>School of Physics Raymond and Beverly Sackler Faculty of Exact Sciences</OrgDivision>
+            <OrgName>Tel Aviv University</OrgName>
+            <OrgAddress>
+              <City>Ramat Aviv</City>
+              <Country>Israel</Country>
+            </OrgAddress>
+          </Affiliation>
+          <Affiliation ID="Aff22">
+            <OrgDivision>Department of Physics</OrgDivision>
+            <OrgName>Bar Ilan University</OrgName>
+            <OrgAddress>
+              <City>Ramat Gan</City>
+              <Country>Israel</Country>
+            </OrgAddress>
+          </Affiliation>
+          <Affiliation ID="Aff23">
+            <OrgDivision>Department of Physics</OrgDivision>
+            <OrgName>Ariel University</OrgName>
+            <OrgAddress>
+              <City>Samaria</City>
+              <Country>Israel</Country>
+            </OrgAddress>
+          </Affiliation>
+        </AuthorGroup>
+      </BookHeader>
+      <BookFrontmatter>
+        <BookFrontmatterInfo>
+          <BookFrontmatterFirstPage>i</BookFrontmatterFirstPage>
+          <BookFrontmatterLastPage>viii</BookFrontmatterLastPage>
+        </BookFrontmatterInfo>
+        <BodyFrontmatter>
+          <BookAcknowledgments>
+            <AcknowledgmentTitle Language="En">Acknowledgments</AcknowledgmentTitle>
+            <Body>
+              <Para ID="Par2">I would like to thank Constantin Piron for his collaboration in developing the main ideas of the theory discussed in this book during visits to the University of Geneva, hosted initially by J.M. Jauch, and for many discussions and collaborations which followed. I am grateful to Stephen L. Adler for his warm hospitality at the Institute for Advanced Study in Princeton over a period of several visits during which, among other things, much of the research on this subject was done. I would also like to thank William C. Schieve for his collaborations over many years, particularly in the development of relativistic statistical mechanics, and for the hospitality he and his wife, Florence, offered me at the University of Texas at Austin during many visits. I would also like to thank Fritz Rohrlich for his hospitality at Syracuse University and for many discussions on relativistic quantum theory and for his collaboration in our study of the constraint formalism.</Para>
+              <Para ID="Par3">I am also particularly indebted to Rafael I. Arshansky for his collaboration on developing many of the basic ideas, such as the solution of the two-body bound state problem, the Landau-Peierls relation and many aspects of scattering theory, as well as Ishi Lavie (Z”L), who fell in the first Lebanon-Israel war; he played an essential role in the development of many of the basic ideas in scattering theory as well. I am grateful to Y. Rabin who worked with me on the first analyses of the phenomenon of interference in time in 1976, Ori Oron for his contributions to the application of the eikonal approximations to the relativistic equations and to the relativistic generalization of Nelson’s approach to the quantum theory through the use of Brownian motion, and Nadav Shnerb for the development of the second quantized formalism with the help and guidance of Kurt Haller (Z”L), to Igal Aharonovich for his intensive work on the classical electromagnetic properties of the relativistically charged particle and the associated five-dimensional fields, to Martin Land for his many invaluable contributions to the theory and many of its applications, to Avi Gershon for his invaluable contribution to the application of the theory to the TeVeS program (a geometrical approach to the dark matter problem), to Andrew Bennett, who found the way to compute the anomalous magnetic moment of the electron in this framework, as well as many discussions, Meir Zeilig-Hess for his contribution to the black body problem and tensor representations, and to many other students and colleagues who have contributed to the effort to understand the structure and consequences of the theory discussed here.</Para>
+              <Para ID="Par4">I also wish to thank Kirsten Theunissen of Springer, for her patience and assistence during the preeparation of the manuscript, and Alwyn van der Merwe for his encouragement at the beginning of this project.</Para>
+              <Para ID="Par5">Finally, I wish to thank my wife, Ruth, for her patience and support in the many years during which the research was done in developing and exploring the consequences of the approach to relativistic quantum mechanics that is discussed in this book.</Para>
+            </Body>
+          </BookAcknowledgments>
+          <Toc>
+            <Heading>Contents</Heading>
+            <TocChapter>
+              <TocEntry PageNumber="1">
+                <ExternalRef>
+                  <RefSource>1 Introduction and Some Problems Encountered in the Construction of a Relativistic Quantum Theory</RefSource>
+                  <RefTarget Address="10.1007/978-94-017-7261-7_1" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection1>
+                <TocEntry PageNumber="1">
+                  <ExternalRef>
+                    <RefSource>1.1 States in Relativistic Quantum and Classical Mechanics</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_1#Sec1" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="3">
+                  <ExternalRef>
+                    <RefSource>1.2 The Problem of Localization for the Solutions of Relativistic Wave Equations</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_1#Sec2" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+            </TocChapter>
+            <TocChapter>
+              <TocEntry PageNumber="9">
+                <ExternalRef>
+                  <RefSource>2 Relativistic Classical and Quantum Mechanics</RefSource>
+                  <RefTarget Address="10.1007/978-94-017-7261-7_2" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection1>
+                <TocEntry PageNumber="9">
+                  <ExternalRef>
+                    <RefSource>2.1 The Einstein Notion of Time</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_2#Sec1" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="18">
+                  <ExternalRef>
+                    <RefSource>2.2 Classical Mechanics</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_2#Sec2" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="20">
+                  <ExternalRef>
+                    <RefSource>2.3 The Quantum Theory</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_2#Sec3" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="22">
+                  <ExternalRef>
+                    <RefSource>2.4 The Newton-Wigner Problem</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_2#Sec4" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="24">
+                  <ExternalRef>
+                    <RefSource>2.5 The Landau-Peierls Problem</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_2#Sec5" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="30">
+                  <ExternalRef>
+                    <RefSource>Appendix A</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_2#Sec6" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+            </TocChapter>
+            <TocChapter>
+              <TocEntry PageNumber="33">
+                <ExternalRef>
+                  <RefSource>3 Spin, Statistics and Correlations</RefSource>
+                  <RefTarget Address="10.1007/978-94-017-7261-7_3" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection1>
+                <TocEntry PageNumber="33">
+                  <ExternalRef>
+                    <RefSource>3.1 Relativistic Spin and the Dirac Representation</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_3#Sec1" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="42">
+                  <ExternalRef>
+                    <RefSource>3.2 The Many Body Problem with Spin, and Spin-Statistics</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_3#Sec2" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="44">
+                  <ExternalRef>
+                    <RefSource>3.3 Construction of the Fock Space and Quantum Field Theory</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_3#Sec3" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="47">
+                  <ExternalRef>
+                    <RefSource>3.4 Induced Representation for Tensor Operators</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_3#Sec4" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="49">
+                  <ExternalRef>
+                    <RefSource>Appendix B</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_3#Sec5" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+            </TocChapter>
+            <TocChapter>
+              <TocEntry PageNumber="51">
+                <ExternalRef>
+                  <RefSource>4 Gauge Fields and Flavor Oscillations</RefSource>
+                  <RefTarget Address="10.1007/978-94-017-7261-7_4" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection1>
+                <TocEntry PageNumber="51">
+                  <ExternalRef>
+                    <RefSource>4.1 Abelian Gauge Fields</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_4#Sec1" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="59">
+                  <ExternalRef>
+                    <RefSource>4.2 Nonabelian Gauge Fields and Neutrino Oscillations</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_4#Sec2" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="65">
+                  <ExternalRef>
+                    <RefSource>
+                      4.3 The Hamiltonian for the Spin
+                      <InlineEquation ID="IEq501">
+                        <InlineMediaObject>
+                          <ImageObject Color="BlackWhite" FileRef="301831_1_En_BookFrontmatter_OnlinePDF_IEq501.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                        </InlineMediaObject>
+                        <EquationSource Format="TEX"><![CDATA[$$ { 1 \over 2} $$]]></EquationSource>
+                      </InlineEquation>
+                      Neutrinos
+                    </RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_4#Sec3" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="67">
+                  <ExternalRef>
+                    <RefSource>
+                      4.4
+                      <InlineEquation ID="IEq502">
+                        <InlineMediaObject>
+                          <ImageObject Color="BlackWhite" FileRef="301831_1_En_BookFrontmatter_OnlinePDF_IEq502.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                        </InlineMediaObject>
+                        <EquationSource Format="TEX"><![CDATA[$$ CP$$]]></EquationSource>
+                      </InlineEquation>
+                      and
+                      <InlineEquation ID="IEq503">
+                        <InlineMediaObject>
+                          <ImageObject Color="BlackWhite" FileRef="301831_1_En_BookFrontmatter_OnlinePDF_IEq503.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                        </InlineMediaObject>
+                        <EquationSource Format="TEX"><![CDATA[$$ T $$]]></EquationSource>
+                      </InlineEquation>
+                      Conjugation
+                    </RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_4#Sec4" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+            </TocChapter>
+            <TocChapter>
+              <TocEntry PageNumber="71">
+                <ExternalRef>
+                  <RefSource>5 The Relativistic Action at a Distance Two Body Problem</RefSource>
+                  <RefTarget Address="10.1007/978-94-017-7261-7_5" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection1>
+                <TocEntry PageNumber="72">
+                  <ExternalRef>
+                    <RefSource>5.1 The Two Body Bound State for Scalar Particles</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_5#Sec1" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="84">
+                  <ExternalRef>
+                    <RefSource>5.2 Some Examples</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_5#Sec2" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="88">
+                  <ExternalRef>
+                    <RefSource>5.3 The Induced Representation</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_5#Sec3" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="93">
+                  <ExternalRef>
+                    <RefSource>5.4 The Stueckelberg String</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_5#Sec4" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+            </TocChapter>
+            <TocChapter>
+              <TocEntry PageNumber="97">
+                <ExternalRef>
+                  <RefSource>6 Experimental Consequences of Coherence in Time</RefSource>
+                  <RefTarget Address="10.1007/978-94-017-7261-7_6" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection1>
+                <TocEntry PageNumber="97">
+                  <ExternalRef>
+                    <RefSource>6.1 General Problem of Coherence in Time</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_6#Sec1" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="98">
+                  <ExternalRef>
+                    <RefSource>6.2 The Lindner Experiment</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_6#Sec2" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="110">
+                  <ExternalRef>
+                    <RefSource>6.3 Experiment Proposed by Palacios et al.</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_6#Sec3" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+            </TocChapter>
+            <TocChapter>
+              <TocEntry PageNumber="113">
+                <ExternalRef>
+                  <RefSource>7 Scattering Theory and Resonances</RefSource>
+                  <RefTarget Address="10.1007/978-94-017-7261-7_7" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection1>
+                <TocEntry PageNumber="114">
+                  <ExternalRef>
+                    <RefSource>7.1 Foundations of Relativistic Scattering Theory</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_7#Sec1" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="116">
+                  <ExternalRef>
+                    <RefSource>
+                      7.2 The
+                      <InlineEquation ID="IEq504">
+                        <InlineMediaObject>
+                          <ImageObject Color="BlackWhite" FileRef="301831_1_En_BookFrontmatter_OnlinePDF_IEq504.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                        </InlineMediaObject>
+                        <EquationSource Format="TEX"><![CDATA[$$ S $$]]></EquationSource>
+                      </InlineEquation>
+                      Matrix
+                    </RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_7#Sec2" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="121">
+                  <ExternalRef>
+                    <RefSource>7.3 Cross Sections</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_7#Sec3" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="122">
+                  <ExternalRef>
+                    <RefSource>7.4 Two Body Partial Wave Analysis</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_7#Sec4" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="125">
+                  <ExternalRef>
+                    <RefSource>7.5 Unitarity and the Levinson Theorem</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_7#Sec5" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="126">
+                  <ExternalRef>
+                    <RefSource>7.6 Resonances and Semigroup Evolution</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_7#Sec6" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="130">
+                  <ExternalRef>
+                    <RefSource>7.7 Lax Phillips Theory</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_7#Sec7" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="137">
+                  <ExternalRef>
+                    <RefSource>7.8 Relativistic Lee-Friedrichs Model</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_7#Sec8" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+            </TocChapter>
+            <TocChapter>
+              <TocEntry PageNumber="143">
+                <ExternalRef>
+                  <RefSource>8 Some Applications: The Electron Anomalous Moment, Invariant Berry Phases and the Spacetime Lattice</RefSource>
+                  <RefTarget Address="10.1007/978-94-017-7261-7_8" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection1>
+                <TocEntry PageNumber="144">
+                  <ExternalRef>
+                    <RefSource>8.1 The Anomalous Moment of the Electron</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_8#Sec1" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="149">
+                  <ExternalRef>
+                    <RefSource>8.2 Invariant Berry Phases</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_8#Sec2" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="153">
+                  <ExternalRef>
+                    <RefSource>8.3 The Spacetime Lattice</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_8#Sec3" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+            </TocChapter>
+            <TocChapter>
+              <TocEntry PageNumber="157">
+                <ExternalRef>
+                  <RefSource>9 Hamiltonian Map to Conformal Modification of Spacetime Metric: Kaluza-Klein and TeVeS</RefSource>
+                  <RefTarget Address="10.1007/978-94-017-7261-7_9" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection1>
+                <TocEntry PageNumber="158">
+                  <ExternalRef>
+                    <RefSource>9.1 Dynamics of a Relativistic Geometric Hamiltonian System</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_9#Sec1" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="159">
+                  <ExternalRef>
+                    <RefSource>9.2 Addition of a Scalar Potential and Conformal Equivalence</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_9#Sec2" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="163">
+                  <ExternalRef>
+                    <RefSource>9.3 TeVeS and Kaluza-Klein Theory</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_9#Sec3" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="165">
+                  <ExternalRef>
+                    <RefSource>9.4 The Bekenstein-Sanders Vector Field as a Gauge Field</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_9#Sec4" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="172">
+                  <ExternalRef>
+                    <RefSource>9.5 Summary</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_9#Sec5" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+            </TocChapter>
+            <TocChapter>
+              <TocEntry PageNumber="173">
+                <ExternalRef>
+                  <RefSource>10 Relativistic Classical and Quantum Statistical Mechanics and Covariant Boltzmann Equation</RefSource>
+                  <RefTarget Address="10.1007/978-94-017-7261-7_10" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection1>
+                <TocEntry PageNumber="174">
+                  <ExternalRef>
+                    <RefSource>10.1 A Potential Model for the Many Body System</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_10#Sec1" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="175">
+                  <ExternalRef>
+                    <RefSource>10.2 The Microcanonical Ensemble</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_10#Sec2" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="179">
+                  <ExternalRef>
+                    <RefSource>10.3 Canonical Ensemble</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_10#Sec3" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="184">
+                  <ExternalRef>
+                    <RefSource>10.4 Grand Canonical Ensemble</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_10#Sec4" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="187">
+                  <ExternalRef>
+                    <RefSource>10.5 Relativistic Quantum Quantum Statistical Mechanics</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_10#Sec5" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="191">
+                  <ExternalRef>
+                    <RefSource>10.6 Relativistic High Temperature Boson Phase Transition</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_10#Sec6" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="193">
+                  <ExternalRef>
+                    <RefSource>10.7 Black Body Radiation</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_10#Sec7" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+              <TocSection1>
+                <TocEntry PageNumber="196">
+                  <ExternalRef>
+                    <RefSource>10.8 Manifestly Covariant Relativistic Boltzmann Equation</RefSource>
+                    <RefTarget Address="10.1007/978-94-017-7261-7_10#Sec8" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection1>
+            </TocChapter>
+            <TocChapter>
+              <TocEntry PageNumber="201">
+                <ExternalRef>
+                  <RefSource>11 Discussion</RefSource>
+                  <RefTarget Address="10.1007/978-94-017-7261-7_11" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocChapter>
+            <TocBack PageNumber="203">References</TocBack>
+            <TocBack PageNumber="211">Index</TocBack>
+          </Toc>
+        </BodyFrontmatter>
+        <BodyRef FileRef="978-94-017-7261-7_BookFrontMatter.pdf" OutputMedium="Online" PDFType="Typeset" TargetType="OnlinePDF"/>
+      </BookFrontmatter>
+    </Book>
+  </Series>
+</Publisher>
